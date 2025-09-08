@@ -1,0 +1,1237 @@
+[2025-08-30 10:15:39] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:15:45] INFO  tests.RegistrationandLogin - Step 2: Navigating to Registration Page
+[2025-08-30 10:15:46] INFO  tests.RegistrationandLogin - Step 3: Selecting gender: Male
+[2025-08-30 10:15:47] INFO  tests.RegistrationandLogin - Step 4: Entering First Name: John
+[2025-08-30 10:15:49] INFO  tests.RegistrationandLogin - Step 5: Entering Last Name: Doe
+[2025-08-30 10:15:49] INFO  tests.RegistrationandLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-08-30 10:15:49] INFO  tests.RegistrationandLogin - Step 7: Entering Company: AcmeCorp
+[2025-08-30 10:15:50] INFO  tests.RegistrationandLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-08-30 10:15:50] INFO  tests.RegistrationandLogin - Step 9: Entering Password
+[2025-08-30 10:15:50] INFO  tests.RegistrationandLogin - Step 10: Confirming Password
+[2025-08-30 10:15:50] INFO  tests.RegistrationandLogin - Step 11: Clicking Register Button
+[2025-08-30 10:15:51] INFO  tests.RegistrationandLogin - Step 12: Validating Registration Success Message
+[2025-08-30 10:16:02] INFO  tests.RegistrationandLogin - Step 13: Closing Browser
+[2025-08-30 10:16:04] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:16:09] INFO  tests.RegistrationandLogin - Step 2: Navigating to Registration Page
+[2025-08-30 10:16:10] INFO  tests.RegistrationandLogin - Step 3: Selecting gender: Female
+[2025-08-30 10:16:10] INFO  tests.RegistrationandLogin - Step 4: Entering First Name: Jane
+[2025-08-30 10:16:10] INFO  tests.RegistrationandLogin - Step 5: Entering Last Name: Smith
+[2025-08-30 10:16:12] INFO  tests.RegistrationandLogin - Step 6: Entering Email: jane.smith2@gmail.com
+[2025-08-30 10:16:12] INFO  tests.RegistrationandLogin - Step 7: Entering Company: WidgetInc
+[2025-08-30 10:16:13] INFO  tests.RegistrationandLogin - Step 8: Setting Newsletter Subscription: No
+[2025-08-30 10:16:13] INFO  tests.RegistrationandLogin - Step 9: Entering Password
+[2025-08-30 10:16:13] INFO  tests.RegistrationandLogin - Step 10: Confirming Password
+[2025-08-30 10:16:13] INFO  tests.RegistrationandLogin - Step 11: Clicking Register Button
+[2025-08-30 10:16:14] INFO  tests.RegistrationandLogin - Step 12: Validating Registration Success Message
+[2025-08-30 10:16:25] INFO  tests.RegistrationandLogin - Step 13: Closing Browser
+[2025-08-30 10:16:26] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:16:29] INFO  tests.RegistrationandLogin - Step 2: Navigating to Registration Page
+[2025-08-30 10:16:30] INFO  tests.RegistrationandLogin - Step 3: Selecting gender: Male
+[2025-08-30 10:45:54] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:46:04] INFO  tests.RegistrationandLogin - Step 2: Navigating to Registration Page
+[2025-08-30 10:46:05] INFO  tests.RegistrationandLogin - Step 3: Selecting gender: Male
+[2025-08-30 10:46:08] INFO  tests.RegistrationandLogin - Step 4: Entering First Name: John
+[2025-08-30 10:46:08] INFO  tests.RegistrationandLogin - Step 5: Entering Last Name: Doe
+[2025-08-30 10:46:08] INFO  tests.RegistrationandLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-08-30 10:46:08] INFO  tests.RegistrationandLogin - Step 7: Entering Company: AcmeCorp
+[2025-08-30 10:46:09] INFO  tests.RegistrationandLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-08-30 10:46:09] INFO  tests.RegistrationandLogin - Step 9: Entering Password
+[2025-08-30 10:46:09] INFO  tests.RegistrationandLogin - Step 10: Confirming Password
+[2025-08-30 10:46:09] INFO  tests.RegistrationandLogin - Step 11: Clicking Register Button
+[2025-08-30 10:46:10] INFO  tests.RegistrationandLogin - Step 12: Validating Registration Success Message
+[2025-08-30 10:46:20] INFO  tests.RegistrationandLogin - Step 13: Closing Browser
+[2025-08-30 10:46:21] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:46:26] INFO  tests.RegistrationandLogin - Step 2: Navigating to Registration Page
+[2025-08-30 10:46:27] INFO  tests.RegistrationandLogin - Step 3: Selecting gender: Female
+[2025-08-30 10:46:30] INFO  tests.RegistrationandLogin - Step 4: Entering First Name: Jane
+[2025-08-30 10:46:30] INFO  tests.RegistrationandLogin - Step 5: Entering Last Name: Smith
+[2025-08-30 10:46:30] INFO  tests.RegistrationandLogin - Step 6: Entering Email: jane.smith2@gmail.com
+[2025-08-30 10:46:30] INFO  tests.RegistrationandLogin - Step 7: Entering Company: WidgetInc
+[2025-08-30 10:46:30] INFO  tests.RegistrationandLogin - Step 8: Setting Newsletter Subscription: No
+[2025-08-30 10:46:31] INFO  tests.RegistrationandLogin - Step 9: Entering Password
+[2025-08-30 10:46:31] INFO  tests.RegistrationandLogin - Step 10: Confirming Password
+[2025-08-30 10:46:31] INFO  tests.RegistrationandLogin - Step 11: Clicking Register Button
+[2025-08-30 10:46:31] INFO  tests.RegistrationandLogin - Step 12: Validating Registration Success Message
+[2025-08-30 10:46:42] INFO  tests.RegistrationandLogin - Step 13: Closing Browser
+[2025-08-30 10:46:42] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:46:44] INFO  tests.RegistrationandLogin - Step 2: Navigating to Registration Page
+[2025-08-30 10:46:45] INFO  tests.RegistrationandLogin - Step 3: Selecting gender: Male
+[2025-08-30 10:46:46] INFO  tests.RegistrationandLogin - Step 4: Entering First Name: Raj
+[2025-08-30 10:46:46] INFO  tests.RegistrationandLogin - Step 5: Entering Last Name: Kumar
+[2025-08-30 10:46:47] INFO  tests.RegistrationandLogin - Step 6: Entering Email: raj.kumar3@gmail.com
+[2025-08-30 10:46:47] INFO  tests.RegistrationandLogin - Step 7: Entering Company: Infosys
+[2025-08-30 10:46:47] INFO  tests.RegistrationandLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-08-30 10:46:47] INFO  tests.RegistrationandLogin - Step 9: Entering Password
+[2025-08-30 10:46:47] INFO  tests.RegistrationandLogin - Step 10: Confirming Password
+[2025-08-30 10:46:47] INFO  tests.RegistrationandLogin - Step 11: Clicking Register Button
+[2025-08-30 10:46:48] INFO  tests.RegistrationandLogin - Step 12: Validating Registration Success Message
+[2025-08-30 10:46:58] INFO  tests.RegistrationandLogin - Step 13: Closing Browser
+[2025-08-30 10:46:59] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:47:01] INFO  tests.RegistrationandLogin - Step 2: Navigating to Login Page
+[2025-08-30 10:47:02] INFO  tests.RegistrationandLogin - Step 3: Entering Email: john.doe1@gmail.com
+[2025-08-30 10:47:04] INFO  tests.RegistrationandLogin - Step 4: Entering Password
+[2025-08-30 10:47:04] INFO  tests.RegistrationandLogin - Step 5: Clicking Login Button
+[2025-08-30 10:47:05] INFO  tests.RegistrationandLogin - Step 6: Validating Login Success
+[2025-08-30 10:47:05] INFO  tests.RegistrationandLogin - Step 7:  Login successful for user: john.doe1@gmail.com
+[2025-08-30 10:47:05] INFO  tests.RegistrationandLogin - Step 8: Closing Browser
+[2025-08-30 10:47:07] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:47:10] INFO  tests.RegistrationandLogin - Step 2: Navigating to Login Page
+[2025-08-30 10:47:11] INFO  tests.RegistrationandLogin - Step 3: Entering Email: jane.smith2@gmail.com
+[2025-08-30 10:47:12] INFO  tests.RegistrationandLogin - Step 4: Entering Password
+[2025-08-30 10:47:12] INFO  tests.RegistrationandLogin - Step 5: Clicking Login Button
+[2025-08-30 10:47:13] INFO  tests.RegistrationandLogin - Step 6: Validating Login Success
+[2025-08-30 10:47:14] INFO  tests.RegistrationandLogin - Step 7:  Login successful for user: jane.smith2@gmail.com
+[2025-08-30 10:47:14] INFO  tests.RegistrationandLogin - Step 8: Closing Browser
+[2025-08-30 10:47:14] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:47:16] INFO  tests.RegistrationandLogin - Step 2: Navigating to Login Page
+[2025-08-30 10:47:16] INFO  tests.RegistrationandLogin - Step 3: Entering Email: raj.kumar3@gmail.com
+[2025-08-30 10:47:18] INFO  tests.RegistrationandLogin - Step 4: Entering Password
+[2025-08-30 10:47:18] INFO  tests.RegistrationandLogin - Step 5: Clicking Login Button
+[2025-08-30 10:47:21] INFO  tests.RegistrationandLogin - Step 6: Validating Login Success
+[2025-08-30 10:47:21] INFO  tests.RegistrationandLogin - Step 7:  Login successful for user: raj.kumar3@gmail.com
+[2025-08-30 10:47:21] INFO  tests.RegistrationandLogin - Step 8: Closing Browser
+[2025-08-30 10:47:23] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 10:47:28] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 10:47:35] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:04:55] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:04:59] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:05:02] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:07:59] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:08:05] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:08:11] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:37:36] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:37:50] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:37:53] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:42:51] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:42:58] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:43:06] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:44:37] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:44:46] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:44:46] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:48:45] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:48:53] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:49:00] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:52:45] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:52:49] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:53:16] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:53:21] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:53:28] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 11:53:28] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 11:56:21] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 11:56:27] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 11:56:31] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 11:56:32] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:00:48] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:00:56] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:01:05] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:01:08] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:01:09] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:01:10] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:01:11] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:02:55] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:03:02] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:03:09] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:03:10] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:03:11] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:03:12] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:03:14] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:03:50] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:03:58] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:04:02] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:04:04] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:04:04] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:04:05] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:04:06] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:05:29] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:05:37] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:05:43] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:05:44] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:05:44] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:05:55] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:08:34] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:08:44] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:08:49] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:08:50] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:08:50] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:12:29] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:12:38] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:12:46] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:12:48] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:12:48] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:12:49] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:12:50] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:15:35] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:15:47] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:15:52] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:15:54] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:15:54] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:15:55] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:15:56] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:16:47] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:16:52] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:16:57] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:16:58] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:16:59] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:16:59] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:17:01] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:23:09] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:23:16] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:23:21] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:23:21] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:23:22] INFO  tests.RegistrationandLogin - Verifying success message...
+[2025-08-30 12:23:32] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-08-30 12:24:45] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-08-30 12:24:49] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-08-30 12:24:54] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-08-30 12:24:56] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-08-30 12:24:56] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-08-30 12:25:02] INFO  tests.RegistrationandLogin - Finished viewing cart
+[2025-08-30 12:25:02] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-09-01 15:38:02] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-09-01 15:38:45] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-09-01 15:38:55] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-09-01 15:38:59] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-09-01 15:39:00] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-09-01 15:39:03] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-09-01 15:42:56] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-09-01 15:43:11] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-09-01 15:43:19] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-09-01 15:43:21] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-09-01 15:43:22] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-09-01 15:43:25] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-09-01 15:46:16] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-09-01 15:46:20] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-09-01 15:46:26] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-09-01 15:46:28] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-09-01 15:46:28] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-09-01 15:46:34] INFO  tests.RegistrationandLogin - Finished viewing cart
+[2025-09-01 15:46:34] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-09-01 15:52:10] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-09-01 15:52:16] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-09-01 15:52:20] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-09-01 15:52:24] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-09-01 15:52:24] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-09-01 15:52:30] INFO  tests.RegistrationandLogin - Finished viewing cart
+[2025-09-01 15:52:30] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-09-01 16:00:19] INFO  tests.RegistrationandLogin - Step 1: Starting browser
+[2025-09-01 16:00:31] INFO  tests.RegistrationandLogin - Starting Add to Cart Test for Nike Mint Shoe
+[2025-09-01 16:00:38] INFO  tests.RegistrationandLogin - Selecting Nike Mint shoe...
+[2025-09-01 16:00:41] INFO  tests.RegistrationandLogin - Adding shoe to cart...
+[2025-09-01 16:00:41] INFO  tests.RegistrationandLogin - Opening cart...
+[2025-09-01 16:00:47] INFO  tests.RegistrationandLogin - Finished viewing cart
+[2025-09-01 16:00:47] INFO  tests.RegistrationandLogin - Step 2: Closing Browser
+[2025-09-04 14:45:17] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:24] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-04 14:45:25] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-04 14:45:25] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-04 14:45:26] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-04 14:45:28] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-04 14:45:28] INFO  tests.RegistrationLogin - Step 13:  Registration completed successfully for: john.doe1@gmail.com
+[2025-09-04 14:45:28] INFO  tests.RegistrationLogin - Step 14: Closing Browser
+[2025-09-04 14:45:28] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:29] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-04 14:45:31] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Female
+[2025-09-04 14:45:31] INFO  tests.RegistrationLogin - Step 4: Entering First Name: Jane
+[2025-09-04 14:45:31] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Smith
+[2025-09-04 14:45:31] INFO  tests.RegistrationLogin - Step 6: Entering Email: jane.smith2@gmail.com
+[2025-09-04 14:45:31] INFO  tests.RegistrationLogin - Step 7: Entering Company: WidgetInc
+[2025-09-04 14:45:31] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: No
+[2025-09-04 14:45:32] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-04 14:45:32] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-04 14:45:32] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-04 14:45:33] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-04 14:45:33] INFO  tests.RegistrationLogin - Step 13:  Registration completed successfully for: jane.smith2@gmail.com
+[2025-09-04 14:45:33] INFO  tests.RegistrationLogin - Step 14: Closing Browser
+[2025-09-04 14:45:33] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:34] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-04 14:45:35] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-04 14:45:35] INFO  tests.RegistrationLogin - Step 4: Entering First Name: Raj
+[2025-09-04 14:45:35] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Kumar
+[2025-09-04 14:45:36] INFO  tests.RegistrationLogin - Step 6: Entering Email: raj.kumar3@gmail.com
+[2025-09-04 14:45:36] INFO  tests.RegistrationLogin - Step 7: Entering Company: Infosys
+[2025-09-04 14:45:36] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-04 14:45:36] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-04 14:45:36] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-04 14:45:36] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-04 14:45:37] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-04 14:45:37] INFO  tests.RegistrationLogin - Step 13:  Registration completed successfully for: raj.kumar3@gmail.com
+[2025-09-04 14:45:37] INFO  tests.RegistrationLogin - Step 14: Closing Browser
+[2025-09-04 14:45:37] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:40] INFO  tests.RegistrationLogin - Step 2: Navigating to Login Page
+[2025-09-04 14:45:41] INFO  tests.RegistrationLogin - Step 3: Entering Email: john.doe1@gmail.com
+[2025-09-04 14:45:41] INFO  tests.RegistrationLogin - Step 4: Entering Password
+[2025-09-04 14:45:41] INFO  tests.RegistrationLogin - Step 5: Clicking Login Button
+[2025-09-04 14:45:41] INFO  tests.RegistrationLogin - Step 6: Validating Login Success
+[2025-09-04 14:45:43] INFO  tests.RegistrationLogin - Step 7:  Login successful for user: john.doe1@gmail.com
+[2025-09-04 14:45:43] INFO  tests.RegistrationLogin - Step 8: Closing Browser
+[2025-09-04 14:45:43] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:44] INFO  tests.RegistrationLogin - Step 2: Navigating to Login Page
+[2025-09-04 14:45:45] INFO  tests.RegistrationLogin - Step 3: Entering Email: jane.smith2@gmail.com
+[2025-09-04 14:45:45] INFO  tests.RegistrationLogin - Step 4: Entering Password
+[2025-09-04 14:45:46] INFO  tests.RegistrationLogin - Step 5: Clicking Login Button
+[2025-09-04 14:45:47] INFO  tests.RegistrationLogin - Step 6: Validating Login Success
+[2025-09-04 14:45:47] INFO  tests.RegistrationLogin - Step 7:  Login successful for user: jane.smith2@gmail.com
+[2025-09-04 14:45:47] INFO  tests.RegistrationLogin - Step 8: Closing Browser
+[2025-09-04 14:45:47] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:48] INFO  tests.RegistrationLogin - Step 2: Navigating to Login Page
+[2025-09-04 14:45:49] INFO  tests.RegistrationLogin - Step 3: Entering Email: raj.kumar3@gmail.com
+[2025-09-04 14:45:49] INFO  tests.RegistrationLogin - Step 4: Entering Password
+[2025-09-04 14:45:49] INFO  tests.RegistrationLogin - Step 5: Clicking Login Button
+[2025-09-04 14:45:51] INFO  tests.RegistrationLogin - Step 6: Validating Login Success
+[2025-09-04 14:45:51] INFO  tests.RegistrationLogin - Step 7:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-04 14:45:51] INFO  tests.RegistrationLogin - Step 8: Closing Browser
+[2025-09-04 14:45:51] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:45:52] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:45:53] INFO  tests.RegistrationLogin - Step 3: Clicking on Computers
+[2025-09-04 14:45:55] INFO  tests.RegistrationLogin - Step 4: Clicking on Desktops
+[2025-09-04 14:45:56] INFO  tests.RegistrationLogin - Step 5: Clicking on 'Build your own computer'
+[2025-09-04 14:45:58] INFO  tests.RegistrationLogin - Step 6: Selecting Processor
+[2025-09-04 14:45:58] INFO  tests.RegistrationLogin - Step 7: Selecting RAM
+[2025-09-04 14:45:58] INFO  tests.RegistrationLogin - Step 8: Selecting HDD
+[2025-09-04 14:45:58] INFO  tests.RegistrationLogin - Step 9: Selecting OS
+[2025-09-04 14:45:58] INFO  tests.RegistrationLogin - Step 10: Selecting Software
+[2025-09-04 14:45:58] INFO  tests.RegistrationLogin - Step 11: Clicking Add to Cart
+[2025-09-04 14:45:59] INFO  tests.RegistrationLogin - Step 12: Closing Browser
+[2025-09-04 14:45:59] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:46:01] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:46:02] INFO  tests.RegistrationLogin - Step 3: Clicking on Electronics
+[2025-09-04 14:46:04] INFO  tests.RegistrationLogin - Step 4: Clicking on 'Cell phones' subcategory
+[2025-09-04 14:46:05] INFO  tests.RegistrationLogin - Step 5: Clicking on 'HTC One Mini Blue'
+[2025-09-04 14:46:06] INFO  tests.RegistrationLogin - Step 6: Clicking Add to Cart
+[2025-09-04 14:46:07] INFO  tests.RegistrationLogin - Step 7: Validating Add to Cart confirmation
+[2025-09-04 14:46:07] INFO  tests.RegistrationLogin - Step 8: Closing Browser
+[2025-09-04 14:46:07] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:46:09] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:46:09] INFO  tests.RegistrationLogin - Step 3: Clicking on Apparel
+[2025-09-04 14:46:11] INFO  tests.RegistrationLogin - Step 4: Clicking on 'Shoes' subcategory
+[2025-09-04 14:46:12] INFO  tests.RegistrationLogin - Step 5: Clicking on 'adidas Consortium Campus 80s Running Shoes'
+[2025-09-04 14:46:15] INFO  tests.RegistrationLogin - Step 6: Selecting required option (Size)
+[2025-09-04 14:46:15] INFO  tests.RegistrationLogin - Step 7: Clicking Add to Cart
+[2025-09-04 14:46:15] INFO  tests.RegistrationLogin - Step 8: Validating Add to Cart confirmation
+[2025-09-04 14:46:16] INFO  tests.RegistrationLogin - Step 9: Closing Browser
+[2025-09-04 14:46:16] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:46:17] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:46:19] INFO  tests.RegistrationLogin - Step 3: Clicking on Digital downloads
+[2025-09-04 14:46:19] INFO  tests.RegistrationLogin - Step 4: Clicking on first product
+[2025-09-04 14:46:21] INFO  tests.RegistrationLogin - Step 5: Clicking Add to Cart
+[2025-09-04 14:46:21] INFO  tests.RegistrationLogin - Step 6: Closing Browser
+[2025-09-04 14:46:22] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:46:23] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:46:24] INFO  tests.RegistrationLogin - Step 3: Clicking on Books
+[2025-09-04 14:46:25] INFO  tests.RegistrationLogin - Step 4: Clicking on first product
+[2025-09-04 14:46:27] INFO  tests.RegistrationLogin - Step 5: Clicking Add to Cart
+[2025-09-04 14:46:28] INFO  tests.RegistrationLogin - Step 6: Closing Browser
+[2025-09-04 14:46:28] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:46:29] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:46:30] INFO  tests.RegistrationLogin - Step 3: Clicking on Jewelry category
+[2025-09-04 14:46:32] INFO  tests.RegistrationLogin - Step 4: Clicking on 'Elegant Gemstone Necklace (rental)' product
+[2025-09-04 14:46:33] INFO  tests.RegistrationLogin - Step 5: Opening rental Start Date picker
+[2025-09-04 14:46:33] INFO  tests.RegistrationLogin - Step 6: Selecting start date from calendar (e.g., day '5')
+[2025-09-04 14:46:33] INFO  tests.RegistrationLogin - Step 7: Opening rental End Date picker
+[2025-09-04 14:46:33] INFO  tests.RegistrationLogin - Step 8: Selecting end date from calendar (e.g., day '10')
+[2025-09-04 14:46:33] INFO  tests.RegistrationLogin - Step 9: Clicking Rent (Add to Cart) button
+[2025-09-04 14:46:33] INFO  tests.RegistrationLogin - Step 10: Validating that product was added to the cart
+[2025-09-04 14:46:35] INFO  tests.RegistrationLogin - Step 11: Closing Browser
+[2025-09-04 14:46:35] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-04 14:46:36] INFO  tests.RegistrationLogin - Step 2: Navigating to Homepage
+[2025-09-04 14:46:37] INFO  tests.RegistrationLogin - Step 3: Clicking on Gift Cards category
+[2025-09-04 14:46:39] INFO  tests.RegistrationLogin - Step 4: Clicking on '$25 Virtual Gift Card'
+[2025-09-04 14:46:39] INFO  tests.RegistrationLogin - Step 5: Entering required Recipient's Name
+[2025-09-04 14:46:40] INFO  tests.RegistrationLogin - Step 6: Entering required Recipient's Email
+[2025-09-04 14:46:40] INFO  tests.RegistrationLogin - Step 7: Entering required Sender's Name
+[2025-09-04 14:46:40] INFO  tests.RegistrationLogin - Step 8: Entering required Sender's Email
+[2025-09-04 14:46:40] INFO  tests.RegistrationLogin - Step 9: Entering optional Message
+[2025-09-04 14:46:40] INFO  tests.RegistrationLogin - Step 10: Clicking Add to Cart
+[2025-09-04 14:46:40] INFO  tests.RegistrationLogin - Step 11: Validating Add to Cart confirmation
+[2025-09-04 14:46:41] INFO  tests.RegistrationLogin - Step 12: Closing Browser
+[2025-09-06 14:54:32] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 14:59:26] INFO  tests.CategoryTests - Step 0: Navigating to Homepage
+[2025-09-06 14:59:30] INFO  tests.CategoryTests - Step 1: Clicking on Computers
+[2025-09-06 14:59:33] INFO  tests.CategoryTests - Step 2: Clicking on Desktops
+[2025-09-06 15:00:12] INFO  tests.CategoryTests - Step 3: Clicking on 'Build your own computer'
+[2025-09-06 15:00:14] INFO  tests.CategoryTests - Step 4: Navigating to Homepage
+[2025-09-06 15:00:14] INFO  tests.CategoryTests - Step 5: Clicking on Electronics
+[2025-09-06 15:00:16] INFO  tests.CategoryTests - Step 6: Clicking on 'Cell phones' subcategory
+[2025-09-06 15:00:18] INFO  tests.CategoryTests - Step 7: Clicking on 'HTC One Mini Blue'
+[2025-09-06 15:00:34] INFO  tests.CategoryTests - Step 8: Clicking Add to Cart
+[2025-09-06 15:00:35] INFO  tests.CategoryTests - Step 9: Validating Add to Cart confirmation
+[2025-09-06 15:02:16] INFO  tests.CategoryTests - Step 10: Navigating to Homepage
+[2025-09-06 15:02:17] INFO  tests.CategoryTests - Step 11: Clicking on Apparel
+[2025-09-06 15:02:22] INFO  tests.CategoryTests - Step 12: Clicking on 'Shoes' subcategory
+[2025-09-06 15:03:15] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 15:03:32] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 15:03:35] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 15:03:36] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 15:03:36] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 15:03:36] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:03:37] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 15:03:37] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 15:03:37] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 15:03:38] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 15:03:38] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 15:03:41] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 15:03:41] INFO  tests.RegistrationLogin - Step 13:  Registration completed successfully for: john.doe1@gmail.com
+[2025-09-06 15:03:41] INFO  tests.RegistrationLogin - Step 14: Clicking Logout after registration/login
+[2025-09-06 15:03:48] INFO  tests.RegistrationLogin - Step 15: Logout successful
+[2025-09-06 15:03:48] INFO  tests.RegistrationLogin - Step 16: Deleted all cookies to reset session
+[2025-09-06 15:04:40] INFO  tests.RegistrationLogin - Step 17: Navigated to homepage after logout
+[2025-09-06 15:04:41] INFO  tests.RegistrationLogin - Step 18: Navigating to Registration Page
+[2025-09-06 15:04:42] INFO  tests.RegistrationLogin - Step 19: Selecting gender: Female
+[2025-09-06 15:04:42] INFO  tests.RegistrationLogin - Step 20: Entering First Name: Jane
+[2025-09-06 15:04:43] INFO  tests.RegistrationLogin - Step 21: Entering Last Name: Smith
+[2025-09-06 15:04:43] INFO  tests.RegistrationLogin - Step 22: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:04:43] INFO  tests.RegistrationLogin - Step 23: Entering Company: WidgetInc
+[2025-09-06 15:04:43] INFO  tests.RegistrationLogin - Step 24: Setting Newsletter Subscription: No
+[2025-09-06 15:04:44] INFO  tests.RegistrationLogin - Step 25: Entering Password
+[2025-09-06 15:04:44] INFO  tests.RegistrationLogin - Step 26: Confirming Password
+[2025-09-06 15:04:44] INFO  tests.RegistrationLogin - Step 27: Clicking Register Button
+[2025-09-06 15:04:45] INFO  tests.RegistrationLogin - Step 28: Validating Registration Success Message
+[2025-09-06 15:04:45] INFO  tests.RegistrationLogin - Step 29:  Registration completed successfully for: jane.smith2@gmail.com
+[2025-09-06 15:04:45] INFO  tests.RegistrationLogin - Step 30: Clicking Logout after registration/login
+[2025-09-06 15:05:24] INFO  tests.RegistrationLogin - Step 31: Logout successful
+[2025-09-06 15:05:25] INFO  tests.RegistrationLogin - Step 32: Deleted all cookies to reset session
+[2025-09-06 15:05:25] WARN  tests.RegistrationLogin - Logout link not found: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=140.0.7339.81)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [874e4ab39451189a6fd5505afd49e6b9, get {url=https://demo.nopcommerce.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.81, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\arjun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57338}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57338/devtoo..., se:cdpVersion: 140.0.7339.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 874e4ab39451189a6fd5505afd49e6b9
+[2025-09-06 15:05:25] INFO  tests.RegistrationLogin - Step 33: Navigating to Registration Page
+[2025-09-06 15:05:58] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 15:06:07] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 15:06:13] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 15:06:14] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 15:06:14] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 15:06:14] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:06:14] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 15:06:14] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 15:06:14] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 15:06:15] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 15:06:15] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 15:06:16] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 15:06:26] INFO  tests.RegistrationLogin - Step 13: Navigating to Registration Page
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 14: Selecting gender: Female
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 15: Entering First Name: Jane
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 16: Entering Last Name: Smith
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 17: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 18: Entering Company: WidgetInc
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 19: Setting Newsletter Subscription: No
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 20: Entering Password
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 21: Confirming Password
+[2025-09-06 15:06:29] INFO  tests.RegistrationLogin - Step 22: Clicking Register Button
+[2025-09-06 15:06:31] INFO  tests.RegistrationLogin - Step 23: Validating Registration Success Message
+[2025-09-06 15:06:42] INFO  tests.RegistrationLogin - Step 24: Navigating to Registration Page
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 25: Selecting gender: Male
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 26: Entering First Name: Raj
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 27: Entering Last Name: Kumar
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 28: Entering Email: raj.kumar3@gmail.com
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 29: Entering Company: Infosys
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 30: Setting Newsletter Subscription: Yes
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 31: Entering Password
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 32: Confirming Password
+[2025-09-06 15:06:50] INFO  tests.RegistrationLogin - Step 33: Clicking Register Button
+[2025-09-06 15:06:52] INFO  tests.RegistrationLogin - Step 34: Validating Registration Success Message
+[2025-09-06 15:06:52] INFO  tests.RegistrationLogin - Step 35:  Registration completed successfully for: raj.kumar3@gmail.com
+[2025-09-06 15:06:52] INFO  tests.RegistrationLogin - Step 36: Clicking Logout after registration/login
+[2025-09-06 15:07:09] INFO  tests.RegistrationLogin - Step 37: Logout successful
+[2025-09-06 15:07:09] INFO  tests.RegistrationLogin - Step 38: Deleted all cookies to reset session
+[2025-09-06 15:07:14] INFO  tests.RegistrationLogin - Step 39: Navigated to homepage after logout
+[2025-09-06 15:07:14] INFO  tests.RegistrationLogin - Step 40: Navigating to Login Page
+[2025-09-06 15:07:55] INFO  tests.RegistrationLogin - Step 41: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:07:56] INFO  tests.RegistrationLogin - Step 42: Entering Password
+[2025-09-06 15:07:56] INFO  tests.RegistrationLogin - Step 43: Clicking Login Button
+[2025-09-06 15:10:09] INFO  tests.RegistrationLogin - Step 44: Validating Login Success
+[2025-09-06 15:10:09] INFO  tests.RegistrationLogin - Step 45:  Login successful for user: john.doe1@gmail.com
+[2025-09-06 15:10:09] INFO  tests.RegistrationLogin - Step 46:  Login successful for user: john.doe1@gmail.com
+[2025-09-06 15:10:09] INFO  tests.RegistrationLogin - Step 47: Clicking Logout
+[2025-09-06 15:10:09] WARN  tests.RegistrationLogin - Logout link not found: no such element: Unable to locate element: {"method":"link text","selector":"Log out"}
+  (Session info: chrome=140.0.7339.81)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abb30645aea40908014c6f454befd2ae, findElement {using=link text, value=Log out}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.81, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\arjun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53147}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53147/devtoo..., se:cdpVersion: 140.0.7339.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abb30645aea40908014c6f454befd2ae
+[2025-09-06 15:10:09] INFO  tests.RegistrationLogin - Step 48: Navigating to Login Page
+[2025-09-06 15:10:09] INFO  tests.RegistrationLogin - Step 49: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 50: Entering Password
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 51: Clicking Login Button
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 52: Validating Login Success
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 53:  Login successful for user: jane.smith2@gmail.com
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 54:  Login successful for user: jane.smith2@gmail.com
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 55: Clicking Logout
+[2025-09-06 15:10:10] WARN  tests.RegistrationLogin - Logout link not found: no such element: Unable to locate element: {"method":"link text","selector":"Log out"}
+  (Session info: chrome=140.0.7339.81)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abb30645aea40908014c6f454befd2ae, findElement {using=link text, value=Log out}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.81, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\arjun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53147}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53147/devtoo..., se:cdpVersion: 140.0.7339.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abb30645aea40908014c6f454befd2ae
+[2025-09-06 15:10:10] INFO  tests.RegistrationLogin - Step 56: Navigating to Login Page
+[2025-09-06 15:10:11] INFO  tests.RegistrationLogin - Step 57: Entering Email: raj.kumar3@gmail.com
+[2025-09-06 15:10:11] INFO  tests.RegistrationLogin - Step 58: Entering Password
+[2025-09-06 15:10:11] INFO  tests.RegistrationLogin - Step 59: Clicking Login Button
+[2025-09-06 15:10:11] INFO  tests.RegistrationLogin - Step 60: Validating Login Success
+[2025-09-06 15:10:12] INFO  tests.RegistrationLogin - Step 61:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-06 15:10:12] INFO  tests.RegistrationLogin - Step 62:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-06 15:10:12] INFO  tests.RegistrationLogin - Step 63: Clicking Logout
+[2025-09-06 15:10:12] WARN  tests.RegistrationLogin - Logout link not found: no such element: Unable to locate element: {"method":"link text","selector":"Log out"}
+  (Session info: chrome=140.0.7339.81)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abb30645aea40908014c6f454befd2ae, findElement {using=link text, value=Log out}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.81, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\arjun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53147}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53147/devtoo..., se:cdpVersion: 140.0.7339.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abb30645aea40908014c6f454befd2ae
+[2025-09-06 15:10:12] INFO  tests.RegistrationLogin - Step 64: Closing Browser
+[2025-09-06 15:18:12] INFO  tests.CategoryTests - Step 0: Navigating to Homepage
+[2025-09-06 15:18:13] INFO  tests.CategoryTests - Step 1: Clicking on Computers
+[2025-09-06 15:19:28] INFO  tests.CategoryTests - Step 2: Clicking on Desktops
+[2025-09-06 15:19:30] INFO  tests.CategoryTests - Step 3: Clicking on 'Build your own computer'
+[2025-09-06 15:19:34] INFO  tests.CategoryTests - Step 4: Selecting Processor
+[2025-09-06 15:19:35] INFO  tests.CategoryTests - Step 5: Selecting RAM
+[2025-09-06 15:19:35] INFO  tests.CategoryTests - Step 6: Selecting HDD
+[2025-09-06 15:19:35] INFO  tests.CategoryTests - Step 7: Selecting OS
+[2025-09-06 15:19:35] INFO  tests.CategoryTests - Step 8: Selecting Software
+[2025-09-06 15:19:35] INFO  tests.CategoryTests - Step 9: Clicking Add to Cart
+[2025-09-06 15:19:36] INFO  tests.CategoryTests - Step 10: Navigating to Homepage
+[2025-09-06 15:19:38] INFO  tests.CategoryTests - Step 11: Clicking on Electronics
+[2025-09-06 15:19:42] INFO  tests.CategoryTests - Step 12: Clicking on 'Cell phones' subcategory
+[2025-09-06 15:19:44] INFO  tests.CategoryTests - Step 13: Clicking on 'HTC One Mini Blue'
+[2025-09-06 15:19:46] INFO  tests.CategoryTests - Step 14: Clicking Add to Cart
+[2025-09-06 15:19:47] INFO  tests.CategoryTests - Step 15: Validating Add to Cart confirmation
+[2025-09-06 15:19:48] INFO  tests.CategoryTests - Step 16: Navigating to Homepage
+[2025-09-06 15:19:49] INFO  tests.CategoryTests - Step 17: Clicking on Apparel
+[2025-09-06 15:19:52] INFO  tests.CategoryTests - Step 18: Clicking on 'Shoes' subcategory
+[2025-09-06 15:19:53] INFO  tests.CategoryTests - Step 19: Clicking on 'adidas Consortium Campus 80s Running Shoes'
+[2025-09-06 15:19:55] INFO  tests.CategoryTests - Step 20: Selecting required option (Size)
+[2025-09-06 15:19:55] INFO  tests.CategoryTests - Step 21: Clicking Add to Cart
+[2025-09-06 15:19:55] INFO  tests.CategoryTests - Step 22: Validating Add to Cart confirmation
+[2025-09-06 15:19:57] INFO  tests.CategoryTests - Step 23: Navigating to Homepage
+[2025-09-06 15:19:57] INFO  tests.CategoryTests - Step 24: Clicking on Digital downloads
+[2025-09-06 15:20:00] INFO  tests.CategoryTests - Step 25: Clicking on first product
+[2025-09-06 15:20:02] INFO  tests.CategoryTests - Step 26: Clicking Add to Cart
+[2025-09-06 15:20:08] INFO  tests.CategoryTests - Step 27: Navigating to Homepage
+[2025-09-06 15:20:09] INFO  tests.CategoryTests - Step 28: Clicking on Books
+[2025-09-06 15:20:11] INFO  tests.CategoryTests - Step 29: Clicking on first product
+[2025-09-06 15:20:12] INFO  tests.CategoryTests - Step 30: Clicking Add to Cart
+[2025-09-06 15:20:15] INFO  tests.CategoryTests - Step 31: Navigating to Homepage
+[2025-09-06 15:20:16] INFO  tests.CategoryTests - Step 32: Clicking on Jewelry category
+[2025-09-06 15:20:18] INFO  tests.CategoryTests - Step 33: Clicking on 'Elegant Gemstone Necklace (rental)' product
+[2025-09-06 15:20:22] INFO  tests.CategoryTests - Step 34: Opening rental Start Date picker
+[2025-09-06 15:20:22] INFO  tests.CategoryTests - Step 35: Selecting start date from calendar (e.g., day '6')
+[2025-09-06 15:20:22] INFO  tests.CategoryTests - Step 36: Opening rental End Date picker
+[2025-09-06 15:20:23] INFO  tests.CategoryTests - Step 37: Selecting end date from calendar (e.g., day '10')
+[2025-09-06 15:20:23] INFO  tests.CategoryTests - Step 38: Clicking Rent (Add to Cart) button
+[2025-09-06 15:20:23] INFO  tests.CategoryTests - Step 39: Validating that product was added to the cart
+[2025-09-06 15:20:25] INFO  tests.CategoryTests - Step 40: Navigating to Homepage
+[2025-09-06 15:20:26] INFO  tests.CategoryTests - Step 41: Clicking on Gift Cards category
+[2025-09-06 15:20:27] INFO  tests.CategoryTests - Step 42: Clicking on '$25 Virtual Gift Card'
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 43: Entering required Recipient's Name
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 44: Entering required Recipient's Email
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 45: Entering required Sender's Name
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 46: Entering required Sender's Email
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 47: Entering optional Message
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 48: Clicking Add to Cart
+[2025-09-06 15:20:29] INFO  tests.CategoryTests - Step 49: Validating Add to Cart confirmation
+[2025-09-06 15:20:31] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 15:20:37] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 15:20:42] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 15:20:43] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 15:20:45] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 15:20:45] INFO  tests.RegistrationLogin - Step 13:  Registration completed successfully for: john.doe1@gmail.com
+[2025-09-06 15:20:45] INFO  tests.RegistrationLogin - Step 14: Clicking Logout after registration/login
+[2025-09-06 15:20:50] INFO  tests.RegistrationLogin - Step 15: Logout successful
+[2025-09-06 15:20:50] INFO  tests.RegistrationLogin - Step 16: Deleted all cookies to reset session
+[2025-09-06 15:20:51] INFO  tests.RegistrationLogin - Step 17: Navigated to homepage after logout
+[2025-09-06 15:20:51] INFO  tests.RegistrationLogin - Step 18: Navigating to Registration Page
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 19: Selecting gender: Female
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 20: Entering First Name: Jane
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 21: Entering Last Name: Smith
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 22: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 23: Entering Company: WidgetInc
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 24: Setting Newsletter Subscription: No
+[2025-09-06 15:20:52] INFO  tests.RegistrationLogin - Step 25: Entering Password
+[2025-09-06 15:20:53] INFO  tests.RegistrationLogin - Step 26: Confirming Password
+[2025-09-06 15:20:53] INFO  tests.RegistrationLogin - Step 27: Clicking Register Button
+[2025-09-06 15:20:54] INFO  tests.RegistrationLogin - Step 28: Validating Registration Success Message
+[2025-09-06 15:20:54] INFO  tests.RegistrationLogin - Step 29:  Registration completed successfully for: jane.smith2@gmail.com
+[2025-09-06 15:20:54] INFO  tests.RegistrationLogin - Step 30: Clicking Logout after registration/login
+[2025-09-06 15:20:55] INFO  tests.RegistrationLogin - Step 31: Logout successful
+[2025-09-06 15:20:55] INFO  tests.RegistrationLogin - Step 32: Deleted all cookies to reset session
+[2025-09-06 15:20:56] INFO  tests.RegistrationLogin - Step 33: Navigated to homepage after logout
+[2025-09-06 15:20:56] INFO  tests.RegistrationLogin - Step 34: Navigating to Registration Page
+[2025-09-06 15:21:17] INFO  tests.RegistrationLogin - Step 35: Selecting gender: Male
+[2025-09-06 15:21:17] INFO  tests.RegistrationLogin - Step 36: Navigating to Login Page
+[2025-09-06 15:21:20] INFO  tests.RegistrationLogin - Step 37: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:21:20] INFO  tests.RegistrationLogin - Step 38: Entering Password
+[2025-09-06 15:21:20] INFO  tests.RegistrationLogin - Step 39: Clicking Login Button
+[2025-09-06 15:21:22] INFO  tests.RegistrationLogin - Step 40: Validating Login Success
+[2025-09-06 15:21:22] INFO  tests.RegistrationLogin - Step 41:  Login successful for user: john.doe1@gmail.com
+[2025-09-06 15:21:22] INFO  tests.RegistrationLogin - Step 42:  Login successful for user: john.doe1@gmail.com
+[2025-09-06 15:21:22] INFO  tests.RegistrationLogin - Step 43: Clicking Logout
+[2025-09-06 15:21:25] INFO  tests.RegistrationLogin - Step 44: Logout successful
+[2025-09-06 15:21:25] INFO  tests.RegistrationLogin - Step 45: Deleted all cookies to reset session
+[2025-09-06 15:21:27] INFO  tests.RegistrationLogin - Step 46: Navigated to homepage after logout
+[2025-09-06 15:21:27] INFO  tests.RegistrationLogin - Step 47: Navigating to Login Page
+[2025-09-06 15:21:28] INFO  tests.RegistrationLogin - Step 48: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:21:28] INFO  tests.RegistrationLogin - Step 49: Entering Password
+[2025-09-06 15:21:28] INFO  tests.RegistrationLogin - Step 50: Clicking Login Button
+[2025-09-06 15:21:30] INFO  tests.RegistrationLogin - Step 51: Validating Login Success
+[2025-09-06 15:21:30] INFO  tests.RegistrationLogin - Step 52:  Login successful for user: jane.smith2@gmail.com
+[2025-09-06 15:21:30] INFO  tests.RegistrationLogin - Step 53:  Login successful for user: jane.smith2@gmail.com
+[2025-09-06 15:21:30] INFO  tests.RegistrationLogin - Step 54: Clicking Logout
+[2025-09-06 15:21:32] INFO  tests.RegistrationLogin - Step 55: Logout successful
+[2025-09-06 15:21:32] INFO  tests.RegistrationLogin - Step 56: Deleted all cookies to reset session
+[2025-09-06 15:21:32] INFO  tests.RegistrationLogin - Step 57: Navigated to homepage after logout
+[2025-09-06 15:21:32] INFO  tests.RegistrationLogin - Step 58: Navigating to Login Page
+[2025-09-06 15:21:33] INFO  tests.RegistrationLogin - Step 59: Entering Email: raj.kumar3@gmail.com
+[2025-09-06 15:21:33] INFO  tests.RegistrationLogin - Step 60: Entering Password
+[2025-09-06 15:21:33] INFO  tests.RegistrationLogin - Step 61: Clicking Login Button
+[2025-09-06 15:21:33] INFO  tests.RegistrationLogin - Step 62: Validating Login Success
+[2025-09-06 15:21:34] INFO  tests.RegistrationLogin - Step 63:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-06 15:21:34] INFO  tests.RegistrationLogin - Step 64:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-06 15:21:34] INFO  tests.RegistrationLogin - Step 65: Clicking Logout
+[2025-09-06 15:21:34] WARN  tests.RegistrationLogin - Logout link not found: no such element: Unable to locate element: {"method":"link text","selector":"Log out"}
+  (Session info: chrome=140.0.7339.81)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [80ce3252d338ff347d4a15151e14b13f, findElement {value=Log out, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.81, chrome: {chromedriverVersion: 140.0.7339.80 (670b6f192f46..., userDataDir: C:\Users\arjun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61134}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61134/devtoo..., se:cdpVersion: 140.0.7339.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 80ce3252d338ff347d4a15151e14b13f
+[2025-09-06 15:21:34] INFO  tests.RegistrationLogin - Step 66: Closing Browser
+[2025-09-06 15:28:31] INFO  tests.CategoryTests - Step 0: Navigating to Homepage
+[2025-09-06 15:28:32] INFO  tests.CategoryTests - Step 1: Clicking on Computers
+[2025-09-06 15:28:35] INFO  tests.CategoryTests - Step 2: Clicking on Desktops
+[2025-09-06 15:28:37] INFO  tests.CategoryTests - Step 3: Clicking on 'Build your own computer'
+[2025-09-06 15:28:43] INFO  tests.CategoryTests - Step 4: Selecting Processor
+[2025-09-06 15:28:43] INFO  tests.CategoryTests - Step 5: Selecting RAM
+[2025-09-06 15:28:43] INFO  tests.CategoryTests - Step 6: Selecting HDD
+[2025-09-06 15:28:43] INFO  tests.CategoryTests - Step 7: Selecting OS
+[2025-09-06 15:28:43] INFO  tests.CategoryTests - Step 8: Selecting Software
+[2025-09-06 15:28:43] INFO  tests.CategoryTests - Step 9: Clicking Add to Cart
+[2025-09-06 15:28:45] INFO  tests.CategoryTests - Step 10: Navigating to Homepage
+[2025-09-06 15:28:45] INFO  tests.CategoryTests - Step 11: Clicking on Electronics
+[2025-09-06 15:28:46] INFO  tests.CategoryTests - Step 12: Clicking on 'Cell phones' subcategory
+[2025-09-06 15:28:49] INFO  tests.CategoryTests - Step 13: Clicking on 'HTC One Mini Blue'
+[2025-09-06 15:29:17] INFO  tests.CategoryTests - Step 14: Clicking Add to Cart
+[2025-09-06 15:29:17] INFO  tests.CategoryTests - Step 15: Validating Add to Cart confirmation
+[2025-09-06 15:29:19] INFO  tests.CategoryTests - Step 16: Navigating to Homepage
+[2025-09-06 15:29:20] INFO  tests.CategoryTests - Step 17: Clicking on Apparel
+[2025-09-06 15:29:24] INFO  tests.CategoryTests - Step 18: Clicking on 'Shoes' subcategory
+[2025-09-06 15:29:30] INFO  tests.CategoryTests - Step 19: Clicking on 'adidas Consortium Campus 80s Running Shoes'
+[2025-09-06 15:29:34] INFO  tests.CategoryTests - Step 20: Selecting required option (Size)
+[2025-09-06 15:29:34] INFO  tests.CategoryTests - Step 21: Clicking Add to Cart
+[2025-09-06 15:29:34] INFO  tests.CategoryTests - Step 22: Validating Add to Cart confirmation
+[2025-09-06 15:29:36] INFO  tests.CategoryTests - Step 23: Navigating to Homepage
+[2025-09-06 15:29:37] INFO  tests.CategoryTests - Step 24: Clicking on Digital downloads
+[2025-09-06 15:29:40] INFO  tests.CategoryTests - Step 25: Clicking on first product
+[2025-09-06 15:29:42] INFO  tests.CategoryTests - Step 26: Clicking Add to Cart
+[2025-09-06 15:29:46] INFO  tests.CategoryTests - Step 27: Navigating to Homepage
+[2025-09-06 15:29:48] INFO  tests.CategoryTests - Step 28: Clicking on Books
+[2025-09-06 15:29:50] INFO  tests.CategoryTests - Step 29: Clicking on first product
+[2025-09-06 15:29:52] INFO  tests.CategoryTests - Step 30: Clicking Add to Cart
+[2025-09-06 15:29:56] INFO  tests.CategoryTests - Step 31: Navigating to Homepage
+[2025-09-06 15:29:57] INFO  tests.CategoryTests - Step 32: Clicking on Jewelry category
+[2025-09-06 15:30:04] INFO  tests.CategoryTests - Step 33: Clicking on 'Elegant Gemstone Necklace (rental)' product
+[2025-09-06 15:33:06] INFO  tests.CategoryTests - Step 34: Navigating to Homepage
+[2025-09-06 15:33:07] INFO  tests.CategoryTests - Step 35: Clicking on Gift Cards category
+[2025-09-06 15:33:12] INFO  tests.CategoryTests - Step 36: Clicking on '$25 Virtual Gift Card'
+[2025-09-06 15:33:12] INFO  tests.CategoryTests - Step 37: Entering required Recipient's Name
+[2025-09-06 15:33:13] INFO  tests.CategoryTests - Step 38: Entering required Recipient's Email
+[2025-09-06 15:33:13] INFO  tests.CategoryTests - Step 39: Entering required Sender's Name
+[2025-09-06 15:33:13] INFO  tests.CategoryTests - Step 40: Entering required Sender's Email
+[2025-09-06 15:33:13] INFO  tests.CategoryTests - Step 41: Entering optional Message
+[2025-09-06 15:33:13] INFO  tests.CategoryTests - Step 42: Clicking Add to Cart
+[2025-09-06 15:33:13] INFO  tests.CategoryTests - Step 43: Validating Add to Cart confirmation
+[2025-09-06 15:33:14] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 15:33:17] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 15:33:18] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 15:33:18] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 15:33:18] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 15:33:18] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:33:18] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 15:33:19] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 15:33:19] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 15:33:19] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 15:33:19] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 15:33:22] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 15:33:32] INFO  tests.RegistrationLogin - Step 13: Navigating to Registration Page
+[2025-09-06 15:33:33] INFO  tests.RegistrationLogin - Step 14: Selecting gender: Female
+[2025-09-06 15:33:33] INFO  tests.RegistrationLogin - Step 15: Entering First Name: Jane
+[2025-09-06 15:33:33] INFO  tests.RegistrationLogin - Step 16: Entering Last Name: Smith
+[2025-09-06 15:33:33] INFO  tests.RegistrationLogin - Step 17: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:33:34] INFO  tests.RegistrationLogin - Step 18: Entering Company: WidgetInc
+[2025-09-06 15:33:34] INFO  tests.RegistrationLogin - Step 19: Setting Newsletter Subscription: No
+[2025-09-06 15:33:34] INFO  tests.RegistrationLogin - Step 20: Entering Password
+[2025-09-06 15:33:34] INFO  tests.RegistrationLogin - Step 21: Confirming Password
+[2025-09-06 15:33:34] INFO  tests.RegistrationLogin - Step 22: Clicking Register Button
+[2025-09-06 15:33:34] INFO  tests.RegistrationLogin - Step 23: Validating Registration Success Message
+[2025-09-06 15:33:45] INFO  tests.RegistrationLogin - Step 24: Navigating to Registration Page
+[2025-09-06 15:33:45] INFO  tests.RegistrationLogin - Step 25: Selecting gender: Male
+[2025-09-06 15:33:45] INFO  tests.RegistrationLogin - Step 26: Entering First Name: Raj
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 27: Entering Last Name: Kumar
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 28: Entering Email: raj.kumar3@gmail.com
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 29: Entering Company: Infosys
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 30: Setting Newsletter Subscription: Yes
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 31: Entering Password
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 32: Confirming Password
+[2025-09-06 15:33:46] INFO  tests.RegistrationLogin - Step 33: Clicking Register Button
+[2025-09-06 15:33:47] INFO  tests.RegistrationLogin - Step 34: Validating Registration Success Message
+[2025-09-06 15:33:47] INFO  tests.RegistrationLogin - Step 35:  Registration completed successfully for: raj.kumar3@gmail.com
+[2025-09-06 15:33:47] INFO  tests.RegistrationLogin - Step 36: Clicking Logout after registration/login
+[2025-09-06 15:33:54] INFO  tests.RegistrationLogin - Step 37: Logout successful
+[2025-09-06 15:33:54] INFO  tests.RegistrationLogin - Step 38: Deleted all cookies to reset session
+[2025-09-06 15:33:55] INFO  tests.RegistrationLogin - Step 39: Navigated to homepage after logout
+[2025-09-06 15:33:55] INFO  tests.RegistrationLogin - Step 40: Navigating to Login Page
+[2025-09-06 15:33:55] INFO  tests.RegistrationLogin - Step 41: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:33:55] INFO  tests.RegistrationLogin - Step 42: Entering Password
+[2025-09-06 15:33:55] INFO  tests.RegistrationLogin - Step 43: Clicking Login Button
+[2025-09-06 15:33:57] INFO  tests.RegistrationLogin - Step 44: Validating Login Success
+[2025-09-06 15:33:57] INFO  tests.RegistrationLogin - Step 45:  Login successful for user: john.doe1@gmail.com
+[2025-09-06 15:33:57] INFO  tests.RegistrationLogin - Step 46:  Login successful for user: john.doe1@gmail.com
+[2025-09-06 15:33:57] INFO  tests.RegistrationLogin - Step 47: Clicking Logout
+[2025-09-06 15:33:58] INFO  tests.RegistrationLogin - Step 48: Logout successful
+[2025-09-06 15:33:58] INFO  tests.RegistrationLogin - Step 49: Deleted all cookies to reset session
+[2025-09-06 15:33:59] INFO  tests.RegistrationLogin - Step 50: Navigated to homepage after logout
+[2025-09-06 15:33:59] INFO  tests.RegistrationLogin - Step 51: Navigating to Login Page
+[2025-09-06 15:33:59] INFO  tests.RegistrationLogin - Step 52: Entering Email: jane.smith2@gmail.com
+[2025-09-06 15:33:59] INFO  tests.RegistrationLogin - Step 53: Entering Password
+[2025-09-06 15:33:59] INFO  tests.RegistrationLogin - Step 54: Clicking Login Button
+[2025-09-06 15:34:00] INFO  tests.RegistrationLogin - Step 55: Validating Login Success
+[2025-09-06 15:34:01] INFO  tests.RegistrationLogin - Step 56:  Login successful for user: jane.smith2@gmail.com
+[2025-09-06 15:34:01] INFO  tests.RegistrationLogin - Step 57:  Login successful for user: jane.smith2@gmail.com
+[2025-09-06 15:34:01] INFO  tests.RegistrationLogin - Step 58: Clicking Logout
+[2025-09-06 15:34:03] INFO  tests.RegistrationLogin - Step 59: Logout successful
+[2025-09-06 15:34:03] INFO  tests.RegistrationLogin - Step 60: Deleted all cookies to reset session
+[2025-09-06 15:34:03] INFO  tests.RegistrationLogin - Step 61: Navigated to homepage after logout
+[2025-09-06 15:34:03] INFO  tests.RegistrationLogin - Step 62: Navigating to Login Page
+[2025-09-06 15:34:04] INFO  tests.RegistrationLogin - Step 63: Entering Email: raj.kumar3@gmail.com
+[2025-09-06 15:34:04] INFO  tests.RegistrationLogin - Step 64: Entering Password
+[2025-09-06 15:34:04] INFO  tests.RegistrationLogin - Step 65: Clicking Login Button
+[2025-09-06 15:34:04] INFO  tests.RegistrationLogin - Step 66: Validating Login Success
+[2025-09-06 15:34:06] INFO  tests.RegistrationLogin - Step 67:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-06 15:34:06] INFO  tests.RegistrationLogin - Step 68:  Login successful for user: raj.kumar3@gmail.com
+[2025-09-06 15:34:06] INFO  tests.RegistrationLogin - Step 69: Clicking Logout
+[2025-09-06 15:34:07] INFO  tests.RegistrationLogin - Step 70: Logout successful
+[2025-09-06 15:34:07] INFO  tests.RegistrationLogin - Step 71: Deleted all cookies to reset session
+[2025-09-06 15:34:07] INFO  tests.RegistrationLogin - Step 72: Navigated to homepage after logout
+[2025-09-06 15:34:07] INFO  tests.RegistrationLogin - Step 73: Closing Browser
+[2025-09-06 15:53:55] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 15:54:00] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 15:54:01] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 15:54:02] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 15:54:02] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 15:54:02] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe1@gmail.com
+[2025-09-06 15:54:02] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 15:54:03] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 15:54:03] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 15:54:04] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 15:54:04] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 15:54:05] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 16:01:33] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 16:02:10] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe112@gmail.com
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 16:02:27] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 16:02:29] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 16:02:29] INFO  tests.RegistrationLogin - Step 13:  Registration completed successfully for: john.doe112@gmail.com
+[2025-09-06 16:02:29] INFO  tests.RegistrationLogin - Step 14: Clicking Logout after registration/login
+[2025-09-06 16:02:33] INFO  tests.RegistrationLogin - Step 15: Logout successful
+[2025-09-06 16:02:33] INFO  tests.RegistrationLogin - Step 16: Deleted all cookies to reset session
+[2025-09-06 16:02:33] INFO  tests.RegistrationLogin - Step 17: Navigated to homepage after logout
+[2025-09-06 16:02:33] INFO  tests.RegistrationLogin - Step 18: Navigating to Registration Page
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 19: Selecting gender: Female
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 20: Entering First Name: Jane
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 21: Entering Last Name: Smith
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 22: Entering Email: jane.smith112@gmail.com
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 23: Entering Company: WidgetInc
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 24: Setting Newsletter Subscription: No
+[2025-09-06 16:02:34] INFO  tests.RegistrationLogin - Step 25: Entering Password
+[2025-09-06 16:02:35] INFO  tests.RegistrationLogin - Step 26: Confirming Password
+[2025-09-06 16:02:35] INFO  tests.RegistrationLogin - Step 27: Clicking Register Button
+[2025-09-06 16:02:36] INFO  tests.RegistrationLogin - Step 28: Validating Registration Success Message
+[2025-09-06 16:02:36] INFO  tests.RegistrationLogin - Step 29:  Registration completed successfully for: jane.smith112@gmail.com
+[2025-09-06 16:02:36] INFO  tests.RegistrationLogin - Step 30: Clicking Logout after registration/login
+[2025-09-06 16:02:38] INFO  tests.RegistrationLogin - Step 31: Logout successful
+[2025-09-06 16:02:38] INFO  tests.RegistrationLogin - Step 32: Deleted all cookies to reset session
+[2025-09-06 16:02:39] INFO  tests.RegistrationLogin - Step 33: Navigated to homepage after logout
+[2025-09-06 16:02:39] INFO  tests.RegistrationLogin - Step 34: Navigating to Registration Page
+[2025-09-06 16:02:39] INFO  tests.RegistrationLogin - Step 35: Selecting gender: Male
+[2025-09-06 16:02:40] INFO  tests.RegistrationLogin - Step 36: Entering First Name: Raj
+[2025-09-06 16:02:40] INFO  tests.RegistrationLogin - Step 37: Entering Last Name: Kumar
+[2025-09-06 16:02:40] INFO  tests.RegistrationLogin - Step 38: Entering Email: raj.kumar113@gmail.com
+[2025-09-06 16:02:40] INFO  tests.RegistrationLogin - Step 39: Entering Company: Infosys
+[2025-09-06 16:02:41] INFO  tests.RegistrationLogin - Step 40: Setting Newsletter Subscription: Yes
+[2025-09-06 16:02:41] INFO  tests.RegistrationLogin - Step 41: Entering Password
+[2025-09-06 16:02:41] INFO  tests.RegistrationLogin - Step 42: Confirming Password
+[2025-09-06 16:02:41] INFO  tests.RegistrationLogin - Step 43: Clicking Register Button
+[2025-09-06 16:02:42] INFO  tests.RegistrationLogin - Step 44: Validating Registration Success Message
+[2025-09-06 16:02:42] INFO  tests.RegistrationLogin - Step 45:  Registration completed successfully for: raj.kumar113@gmail.com
+[2025-09-06 16:02:42] INFO  tests.RegistrationLogin - Step 46: Clicking Logout after registration/login
+[2025-09-06 16:02:43] INFO  tests.RegistrationLogin - Step 47: Logout successful
+[2025-09-06 16:02:43] INFO  tests.RegistrationLogin - Step 48: Deleted all cookies to reset session
+[2025-09-06 16:02:44] INFO  tests.RegistrationLogin - Step 49: Navigated to homepage after logout
+[2025-09-06 16:02:44] INFO  tests.RegistrationLogin - Step 50: Navigating to Login Page
+[2025-09-06 16:02:44] INFO  tests.RegistrationLogin - Step 51: Entering Email: john.doe112@gmail.com
+[2025-09-06 16:02:45] INFO  tests.RegistrationLogin - Step 52: Entering Password
+[2025-09-06 16:02:45] INFO  tests.RegistrationLogin - Step 53: Clicking Login Button
+[2025-09-06 16:02:45] INFO  tests.RegistrationLogin - Step 54: Validating Login Success
+[2025-09-06 16:02:46] INFO  tests.RegistrationLogin - Step 55:  Login successful for user: john.doe112@gmail.com
+[2025-09-06 16:02:46] INFO  tests.RegistrationLogin - Step 56:  Login successful for user: john.doe112@gmail.com
+[2025-09-06 16:02:46] INFO  tests.RegistrationLogin - Step 57: Clicking Logout
+[2025-09-06 16:02:47] INFO  tests.RegistrationLogin - Step 58: Logout successful
+[2025-09-06 16:02:47] INFO  tests.RegistrationLogin - Step 59: Deleted all cookies to reset session
+[2025-09-06 16:02:47] INFO  tests.RegistrationLogin - Step 60: Navigated to homepage after logout
+[2025-09-06 16:02:47] INFO  tests.RegistrationLogin - Step 61: Navigating to Login Page
+[2025-09-06 16:02:48] INFO  tests.RegistrationLogin - Step 62: Entering Email: jane.smith112@gmail.com
+[2025-09-06 16:02:48] INFO  tests.RegistrationLogin - Step 63: Entering Password
+[2025-09-06 16:02:48] INFO  tests.RegistrationLogin - Step 64: Clicking Login Button
+[2025-09-06 16:02:50] INFO  tests.RegistrationLogin - Step 65: Validating Login Success
+[2025-09-06 16:02:50] INFO  tests.RegistrationLogin - Step 66:  Login successful for user: jane.smith112@gmail.com
+[2025-09-06 16:02:50] INFO  tests.RegistrationLogin - Step 67:  Login successful for user: jane.smith112@gmail.com
+[2025-09-06 16:02:50] INFO  tests.RegistrationLogin - Step 68: Clicking Logout
+[2025-09-06 16:02:51] INFO  tests.RegistrationLogin - Step 69: Logout successful
+[2025-09-06 16:02:51] INFO  tests.RegistrationLogin - Step 70: Deleted all cookies to reset session
+[2025-09-06 16:02:53] INFO  tests.RegistrationLogin - Step 71: Navigated to homepage after logout
+[2025-09-06 16:02:53] INFO  tests.RegistrationLogin - Step 72: Navigating to Login Page
+[2025-09-06 16:02:53] INFO  tests.RegistrationLogin - Step 73: Entering Email: raj.kumar113@gmail.com
+[2025-09-06 16:02:53] INFO  tests.RegistrationLogin - Step 74: Entering Password
+[2025-09-06 16:02:54] INFO  tests.RegistrationLogin - Step 75: Clicking Login Button
+[2025-09-06 16:02:55] INFO  tests.RegistrationLogin - Step 76: Validating Login Success
+[2025-09-06 16:02:55] INFO  tests.RegistrationLogin - Step 77:  Login successful for user: raj.kumar113@gmail.com
+[2025-09-06 16:02:55] INFO  tests.RegistrationLogin - Step 78:  Login successful for user: raj.kumar113@gmail.com
+[2025-09-06 16:02:55] INFO  tests.RegistrationLogin - Step 79: Clicking Logout
+[2025-09-06 16:02:56] INFO  tests.RegistrationLogin - Step 80: Logout successful
+[2025-09-06 16:02:56] INFO  tests.RegistrationLogin - Step 81: Deleted all cookies to reset session
+[2025-09-06 16:02:57] INFO  tests.RegistrationLogin - Step 82: Navigated to homepage after logout
+[2025-09-06 16:02:57] INFO  tests.RegistrationLogin - Step 83: Closing Browser
+[2025-09-06 16:03:01] INFO  tests.CategoryTests - Step 0: Navigating to Homepage
+[2025-09-06 16:03:03] INFO  tests.CategoryTests - Step 1: Clicking on Computers
+[2025-09-06 16:03:04] INFO  tests.CategoryTests - Step 2: Clicking on Desktops
+[2025-09-06 16:03:06] INFO  tests.CategoryTests - Step 3: Clicking on 'Build your own computer'
+[2025-09-06 16:03:07] INFO  tests.CategoryTests - Step 4: Selecting Processor
+[2025-09-06 16:03:07] INFO  tests.CategoryTests - Step 5: Selecting RAM
+[2025-09-06 16:03:08] INFO  tests.CategoryTests - Step 6: Selecting HDD
+[2025-09-06 16:03:08] INFO  tests.CategoryTests - Step 7: Selecting OS
+[2025-09-06 16:03:08] INFO  tests.CategoryTests - Step 8: Selecting Software
+[2025-09-06 16:03:09] INFO  tests.CategoryTests - Step 9: Clicking Add to Cart
+[2025-09-06 16:03:11] INFO  tests.CategoryTests - Step 10: Navigating to Homepage
+[2025-09-06 16:03:31] INFO  tests.CategoryTests - Step 11: Clicking on Electronics
+[2025-09-06 16:04:14] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-06 16:04:21] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-06 16:04:22] INFO  tests.RegistrationLogin - Step 3: Selecting gender: Male
+[2025-09-06 16:04:22] INFO  tests.RegistrationLogin - Step 4: Entering First Name: John
+[2025-09-06 16:04:22] INFO  tests.RegistrationLogin - Step 5: Entering Last Name: Doe
+[2025-09-06 16:04:22] INFO  tests.RegistrationLogin - Step 6: Entering Email: john.doe112@gmail.com
+[2025-09-06 16:04:23] INFO  tests.RegistrationLogin - Step 7: Entering Company: AcmeCorp
+[2025-09-06 16:04:24] INFO  tests.RegistrationLogin - Step 8: Setting Newsletter Subscription: Yes
+[2025-09-06 16:04:24] INFO  tests.RegistrationLogin - Step 9: Entering Password
+[2025-09-06 16:04:24] INFO  tests.RegistrationLogin - Step 10: Confirming Password
+[2025-09-06 16:04:24] INFO  tests.RegistrationLogin - Step 11: Clicking Register Button
+[2025-09-06 16:04:25] INFO  tests.RegistrationLogin - Step 12: Validating Registration Success Message
+[2025-09-06 16:04:35] INFO  tests.RegistrationLogin - Step 13: Navigating to Registration Page
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 14: Selecting gender: Female
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 15: Entering First Name: Jane
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 16: Entering Last Name: Smith
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 17: Entering Email: jane.smith112@gmail.com
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 18: Entering Company: WidgetInc
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 19: Setting Newsletter Subscription: No
+[2025-09-06 16:04:36] INFO  tests.RegistrationLogin - Step 20: Entering Password
+[2025-09-06 16:04:37] INFO  tests.RegistrationLogin - Step 21: Confirming Password
+[2025-09-06 16:04:37] INFO  tests.RegistrationLogin - Step 22: Clicking Register Button
+[2025-09-06 16:04:43] INFO  tests.RegistrationLogin - Step 23: Validating Registration Success Message
+[2025-09-06 16:04:53] INFO  tests.RegistrationLogin - Step 24: Navigating to Registration Page
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 25: Selecting gender: Male
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 26: Entering First Name: Raj
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 27: Entering Last Name: Kumar
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 28: Entering Email: raj.kumar113@gmail.com
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 29: Entering Company: Infosys
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 30: Setting Newsletter Subscription: Yes
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 31: Entering Password
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 32: Confirming Password
+[2025-09-06 16:04:54] INFO  tests.RegistrationLogin - Step 33: Clicking Register Button
+[2025-09-06 16:04:55] INFO  tests.RegistrationLogin - Step 34: Validating Registration Success Message
+[2025-09-06 16:05:06] INFO  tests.RegistrationLogin - Step 35: Navigating to Login Page
+[2025-09-06 16:05:06] INFO  tests.RegistrationLogin - Step 36: Entering Email: john.doe112@gmail.com
+[2025-09-06 16:05:07] INFO  tests.RegistrationLogin - Step 37: Entering Password
+[2025-09-06 16:05:07] INFO  tests.RegistrationLogin - Step 38: Clicking Login Button
+[2025-09-06 16:05:07] INFO  tests.RegistrationLogin - Step 39: Validating Login Success
+[2025-09-06 16:05:10] INFO  tests.RegistrationLogin - Step 40:  Login successful for user: john.doe112@gmail.com
+[2025-09-06 16:05:10] INFO  tests.RegistrationLogin - Step 41:  Login successful for user: john.doe112@gmail.com
+[2025-09-06 16:05:10] INFO  tests.RegistrationLogin - Step 42: Clicking Logout
+[2025-09-06 16:05:11] INFO  tests.RegistrationLogin - Step 43: Logout successful
+[2025-09-06 16:05:11] INFO  tests.RegistrationLogin - Step 44: Deleted all cookies to reset session
+[2025-09-06 16:05:12] INFO  tests.RegistrationLogin - Step 45: Navigated to homepage after logout
+[2025-09-06 16:05:12] INFO  tests.RegistrationLogin - Step 46: Navigating to Login Page
+[2025-09-06 16:05:12] INFO  tests.RegistrationLogin - Step 47: Entering Email: jane.smith112@gmail.com
+[2025-09-06 16:05:12] INFO  tests.RegistrationLogin - Step 48: Entering Password
+[2025-09-06 16:05:12] INFO  tests.RegistrationLogin - Step 49: Clicking Login Button
+[2025-09-06 16:05:13] INFO  tests.RegistrationLogin - Step 50: Validating Login Success
+[2025-09-06 16:05:13] INFO  tests.RegistrationLogin - Step 51:  Login successful for user: jane.smith112@gmail.com
+[2025-09-06 16:05:13] INFO  tests.RegistrationLogin - Step 52:  Login successful for user: jane.smith112@gmail.com
+[2025-09-06 16:05:13] INFO  tests.RegistrationLogin - Step 53: Clicking Logout
+[2025-09-06 16:05:14] INFO  tests.RegistrationLogin - Step 54: Logout successful
+[2025-09-06 16:05:15] INFO  tests.RegistrationLogin - Step 55: Deleted all cookies to reset session
+[2025-09-06 16:05:16] INFO  tests.RegistrationLogin - Step 56: Navigated to homepage after logout
+[2025-09-06 16:05:16] INFO  tests.RegistrationLogin - Step 57: Navigating to Login Page
+[2025-09-06 16:05:17] INFO  tests.RegistrationLogin - Step 58: Entering Email: raj.kumar113@gmail.com
+[2025-09-06 16:05:17] INFO  tests.RegistrationLogin - Step 59: Entering Password
+[2025-09-06 16:05:17] INFO  tests.RegistrationLogin - Step 60: Clicking Login Button
+[2025-09-06 16:05:17] INFO  tests.RegistrationLogin - Step 61: Validating Login Success
+[2025-09-06 16:05:19] INFO  tests.RegistrationLogin - Step 62:  Login successful for user: raj.kumar113@gmail.com
+[2025-09-06 16:05:19] INFO  tests.RegistrationLogin - Step 63:  Login successful for user: raj.kumar113@gmail.com
+[2025-09-06 16:05:19] INFO  tests.RegistrationLogin - Step 64: Clicking Logout
+[2025-09-06 16:05:22] INFO  tests.RegistrationLogin - Step 65: Logout successful
+[2025-09-06 16:05:22] INFO  tests.RegistrationLogin - Step 66: Deleted all cookies to reset session
+[2025-09-06 16:05:23] INFO  tests.RegistrationLogin - Step 67: Navigated to homepage after logout
+[2025-09-06 16:05:23] INFO  tests.RegistrationLogin - Step 68: Closing Browser
+[2025-09-06 16:05:37] INFO  tests.CategoryTests - Step 0: Navigating to Homepage
+[2025-09-06 16:05:38] INFO  tests.CategoryTests - Step 1: Clicking on Computers
+[2025-09-06 16:05:48] INFO  tests.CategoryTests - Step 2: Clicking on Desktops
+[2025-09-06 16:05:50] INFO  tests.CategoryTests - Step 3: Clicking on 'Build your own computer'
+[2025-09-06 16:05:57] INFO  tests.CategoryTests - Step 4: Selecting Processor
+[2025-09-06 16:05:58] INFO  tests.CategoryTests - Step 5: Selecting RAM
+[2025-09-06 16:05:58] INFO  tests.CategoryTests - Step 6: Selecting HDD
+[2025-09-06 16:05:58] INFO  tests.CategoryTests - Step 7: Selecting OS
+[2025-09-06 16:05:58] INFO  tests.CategoryTests - Step 8: Selecting Software
+[2025-09-06 16:05:58] INFO  tests.CategoryTests - Step 9: Clicking Add to Cart
+[2025-09-06 16:06:00] INFO  tests.CategoryTests - Step 10: Navigating to Homepage
+[2025-09-06 16:06:01] INFO  tests.CategoryTests - Step 11: Clicking on Electronics
+[2025-09-06 16:06:07] INFO  tests.CategoryTests - Step 12: Clicking on 'Cell phones' subcategory
+[2025-09-06 16:07:28] INFO  tests.CategoryTests - Step 13: Clicking on 'HTC One Mini Blue'
+[2025-09-06 16:07:31] INFO  tests.CategoryTests - Step 14: Clicking Add to Cart
+[2025-09-06 16:07:32] INFO  tests.CategoryTests - Step 15: Validating Add to Cart confirmation
+[2025-09-06 16:07:34] INFO  tests.CategoryTests - Step 16: Navigating to Homepage
+[2025-09-06 16:07:35] INFO  tests.CategoryTests - Step 17: Clicking on Apparel
+[2025-09-06 16:07:37] INFO  tests.CategoryTests - Step 18: Clicking on 'Shoes' subcategory
+[2025-09-06 16:08:32] INFO  tests.CategoryTests - Step 19: Clicking on 'adidas Consortium Campus 80s Running Shoes'
+[2025-09-06 16:08:35] INFO  tests.CategoryTests - Step 20: Selecting required option (Size)
+[2025-09-06 16:08:35] INFO  tests.CategoryTests - Step 21: Clicking Add to Cart
+[2025-09-06 16:08:35] INFO  tests.CategoryTests - Step 22: Validating Add to Cart confirmation
+[2025-09-06 16:08:44] INFO  tests.CategoryTests - Step 23: Navigating to Homepage
+[2025-09-06 16:08:44] INFO  tests.CategoryTests - Step 24: Clicking on Digital downloads
+[2025-09-06 16:08:48] INFO  tests.CategoryTests - Step 25: Clicking on first product
+[2025-09-06 16:08:50] INFO  tests.CategoryTests - Step 26: Clicking Add to Cart
+[2025-09-06 16:08:52] INFO  tests.CategoryTests - Step 27: Navigating to Homepage
+[2025-09-06 16:08:52] INFO  tests.CategoryTests - Step 28: Clicking on Books
+[2025-09-06 16:08:55] INFO  tests.CategoryTests - Step 29: Clicking on first product
+[2025-09-06 16:08:56] INFO  tests.CategoryTests - Step 30: Clicking Add to Cart
+[2025-09-06 16:08:58] INFO  tests.CategoryTests - Step 31: Navigating to Homepage
+[2025-09-06 16:08:58] INFO  tests.CategoryTests - Step 32: Clicking on Jewelry category
+[2025-09-06 16:09:00] INFO  tests.CategoryTests - Step 33: Clicking on 'Elegant Gemstone Necklace (rental)' product
+[2025-09-06 16:09:00] INFO  tests.CategoryTests - Step 34: Opening rental Start Date picker
+[2025-09-07 15:56:45] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 15:57:09] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 15:58:09] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 15:59:23] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 16:21:39] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 16:32:43] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 16:34:27] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 16:35:51] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 19:57:41] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:12:44] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:18:02] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:32:15] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:34:35] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:44:22] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:50:48] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:52:30] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:54:30] INFO  tests.RegistrationLogin - Step 1: Starting browser
+[2025-09-07 20:57:07] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 21:04:06] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 21:06:10] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 21:06:19] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-07 21:06:25] INFO  tests.RegistrationLogin - Step 3: Validating Registration Success
+[2025-09-07 21:06:28] INFO  tests.RegistrationLogin - Step 4: Logout successful
+[2025-09-07 21:06:30] INFO  tests.RegistrationLogin - Step 5: Navigating to Registration Page
+[2025-09-07 21:06:35] INFO  tests.RegistrationLogin - Step 6: Validating Registration Success
+[2025-09-07 21:06:37] INFO  tests.RegistrationLogin - Step 7: Logout successful
+[2025-09-07 21:06:38] INFO  tests.RegistrationLogin - Step 8: Navigating to Registration Page
+[2025-09-07 21:06:41] INFO  tests.RegistrationLogin - Step 9: Validating Registration Success
+[2025-09-07 21:06:43] INFO  tests.RegistrationLogin - Step 10: Logout successful
+[2025-09-07 21:06:44] INFO  tests.RegistrationLogin - Step 11: Navigating to Login Page
+[2025-09-07 21:06:48] INFO  tests.RegistrationLogin - Step 12: Login successful for user: john.doe11222@gmail.com
+[2025-09-07 21:06:49] INFO  tests.RegistrationLogin - Step 13: Logout successful
+[2025-09-07 21:06:50] INFO  tests.RegistrationLogin - Step 14: Navigating to Login Page
+[2025-09-07 21:06:52] INFO  tests.RegistrationLogin - Step 15: Login successful for user: jane.smith11222@gmail.com
+[2025-09-07 21:06:55] INFO  tests.RegistrationLogin - Step 16: Logout successful
+[2025-09-07 21:06:56] INFO  tests.RegistrationLogin - Step 17: Navigating to Login Page
+[2025-09-07 21:06:58] INFO  tests.RegistrationLogin - Step 18: Login successful for user: raj.kumar11333@gmail.com
+[2025-09-07 21:07:00] INFO  tests.RegistrationLogin - Step 19: Logout successful
+[2025-09-07 21:07:00] INFO  tests.RegistrationLogin - Step 20: Closing browser
+[2025-09-07 21:08:04] INFO  tests.CategoryTests - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 21:08:13] INFO  tests.CategoryTests - Step 2: Navigating to home page
+[2025-09-07 21:08:26] INFO  tests.CategoryTests - Step 3: Clicking on Computers
+[2025-09-07 21:08:29] INFO  tests.CategoryTests - Step 4: Clicking on Desktops
+[2025-09-07 21:08:30] INFO  tests.CategoryTests - Step 5: Clicking on 'Build your own computer'
+[2025-09-07 21:08:32] INFO  tests.CategoryTests - Step 6: Selecting Processor
+[2025-09-07 21:08:33] INFO  tests.CategoryTests - Step 7: Selecting RAM
+[2025-09-07 21:08:33] INFO  tests.CategoryTests - Step 8: Selecting HDD
+[2025-09-07 21:08:33] INFO  tests.CategoryTests - Step 9: Selecting OS
+[2025-09-07 21:08:33] INFO  tests.CategoryTests - Step 10: Selecting Software
+[2025-09-07 21:08:33] INFO  tests.CategoryTests - Step 11: Clicking Add to Cart
+[2025-09-07 21:08:34] INFO  tests.CategoryTests - Step 12: Navigating to home page
+[2025-09-07 21:08:35] INFO  tests.CategoryTests - Step 13: Clicking on Electronics
+[2025-09-07 21:08:36] INFO  tests.CategoryTests - Step 14: Clicking on 'Cell phones'
+[2025-09-07 21:08:37] INFO  tests.CategoryTests - Step 15: Clicking on 'HTC One Mini Blue'
+[2025-09-07 21:08:39] INFO  tests.CategoryTests - Step 16: Clicking Add to Cart
+[2025-09-07 21:08:40] INFO  tests.CategoryTests - Step 17: Navigating to home page
+[2025-09-07 21:08:41] INFO  tests.CategoryTests - Step 18: Clicking on Apparel
+[2025-09-07 21:08:43] INFO  tests.CategoryTests - Step 19: Clicking on Shoes
+[2025-09-07 21:08:44] INFO  tests.CategoryTests - Step 20: Clicking on adidas product
+[2025-09-07 21:08:45] INFO  tests.CategoryTests - Step 21: Selecting size
+[2025-09-07 21:08:46] INFO  tests.CategoryTests - Step 22: Clicking Add to Cart
+[2025-09-07 21:08:47] INFO  tests.CategoryTests - Step 23: Navigating to home page
+[2025-09-07 21:08:48] INFO  tests.CategoryTests - Step 24: Clicking on Digital downloads
+[2025-09-07 21:08:49] INFO  tests.CategoryTests - Step 25: Clicking on first product
+[2025-09-07 21:08:50] INFO  tests.CategoryTests - Step 26: Clicking Add to Cart
+[2025-09-07 21:08:52] INFO  tests.CategoryTests - Step 27: Navigating to home page
+[2025-09-07 21:08:53] INFO  tests.CategoryTests - Step 28: Clicking on Books
+[2025-09-07 21:08:54] INFO  tests.CategoryTests - Step 29: Clicking on first product
+[2025-09-07 21:08:55] INFO  tests.CategoryTests - Step 30: Clicking Add to Cart
+[2025-09-07 21:08:56] INFO  tests.CategoryTests - Step 31: Navigating to home page
+[2025-09-07 21:08:57] INFO  tests.CategoryTests - Step 32: Clicking on Jewelry
+[2025-09-07 21:08:59] INFO  tests.CategoryTests - Step 33: Clicking on rental product
+[2025-09-07 21:09:00] INFO  tests.CategoryTests - Step 34: Selecting rental start date
+[2025-09-07 21:09:01] INFO  tests.CategoryTests - Step 35: Selecting rental end date
+[2025-09-07 21:09:02] INFO  tests.CategoryTests - Step 36: Clicking Add to Cart
+[2025-09-07 21:09:04] INFO  tests.CategoryTests - Step 37: Navigating to home page
+[2025-09-07 21:09:05] INFO  tests.CategoryTests - Step 38: Clicking on Gift Cards
+[2025-09-07 21:09:06] INFO  tests.CategoryTests - Step 39: Clicking on $25 Virtual Gift Card
+[2025-09-07 21:09:08] INFO  tests.CategoryTests - Step 40: Filling gift card details
+[2025-09-07 21:09:10] INFO  tests.CategoryTests - Step 41: Clicking Add to Cart
+[2025-09-07 21:09:12] INFO  tests.CategoryTests - Step 42: Closing browser
+[2025-09-07 22:43:58] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 22:45:24] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-07 22:45:42] INFO  tests.CategoryAndCheckoutTest - Step 3: Clicking on Computers
+[2025-09-07 22:46:44] INFO  tests.CategoryAndCheckoutTest - Step 4: Navigating to home page
+[2025-09-07 22:46:46] INFO  tests.CategoryAndCheckoutTest - Step 5: Clicking on Electronics
+[2025-09-07 22:50:21] INFO  tests.CategoryAndCheckoutTest - Step 6: Navigating to home page
+[2025-09-07 22:52:05] INFO  tests.CategoryAndCheckoutTest - Step 7: Clicking on Apparel
+[2025-09-07 22:52:13] INFO  tests.CategoryAndCheckoutTest - Step 8: Navigating to home page
+[2025-09-07 22:52:14] INFO  tests.CategoryAndCheckoutTest - Step 9: Clicking on Digital downloads
+[2025-09-07 22:52:19] INFO  tests.CategoryAndCheckoutTest - Step 10: Navigating to home page
+[2025-09-07 22:52:19] INFO  tests.CategoryAndCheckoutTest - Step 11: Clicking on Books
+[2025-09-07 22:55:25] INFO  tests.CategoryAndCheckoutTest - Step 12: Navigating to home page
+[2025-09-07 22:56:01] INFO  tests.CategoryAndCheckoutTest - Step 13: Clicking on Jewelry
+[2025-09-07 22:56:09] INFO  tests.CategoryAndCheckoutTest - Step 14: Navigating to home page
+[2025-09-07 22:56:10] INFO  tests.CategoryAndCheckoutTest - Step 15: Clicking on Gift Cards
+[2025-09-07 22:59:14] INFO  tests.CategoryAndCheckoutTest - Step 16: Navigating to home page
+[2025-09-07 22:59:16] INFO  tests.CategoryAndCheckoutTest - Step 17: Opening Shopping Cart
+[2025-09-07 22:59:20] INFO  tests.CategoryAndCheckoutTest - Step 18: Accepting Terms of Service
+[2025-09-07 22:59:20] INFO  tests.CategoryAndCheckoutTest - Step 19: Clicking Checkout
+[2025-09-07 22:59:21] INFO  tests.CategoryAndCheckoutTest - Step 20: Choosing Guest Checkout
+[2025-09-07 22:59:23] INFO  tests.CategoryAndCheckoutTest - Step 21: Filling Billing Address
+[2025-09-07 22:59:26] INFO  tests.CategoryAndCheckoutTest - Step 22: Clicking Next on Billing Address
+[2025-09-07 22:59:27] INFO  tests.CategoryAndCheckoutTest - Step 23: Selecting Shipping Method
+[2025-09-07 22:59:36] INFO  tests.CategoryAndCheckoutTest - Step 24: Selecting Payment Method
+[2025-09-07 22:59:36] INFO  tests.CategoryAndCheckoutTest - Step 25: Filling Payment Information
+[2025-09-07 22:59:37] INFO  tests.CategoryAndCheckoutTest - Step 26: Confirming Order
+[2025-09-07 22:59:38] INFO  tests.CategoryAndCheckoutTest - Step 27: Verifying Order Confirmation
+[2025-09-07 22:59:39] INFO  tests.CategoryAndCheckoutTest - Step 28: Checkout completed successfully
+[2025-09-07 22:59:39] INFO  tests.CategoryAndCheckoutTest - Step 29: Closing browser after completing checkout
+[2025-09-07 23:05:20] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 23:05:25] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-07 23:06:15] INFO  tests.CategoryAndCheckoutTest - Step 3: Clicking on Computers
+[2025-09-07 23:09:09] INFO  tests.CategoryAndCheckoutTest - Step 4: Navigating to home page
+[2025-09-07 23:09:40] INFO  tests.CategoryAndCheckoutTest - Step 5: Clicking on Electronics
+[2025-09-07 23:11:54] INFO  tests.CategoryAndCheckoutTest - Step 6: Navigating to home page
+[2025-09-07 23:11:54] INFO  tests.CategoryAndCheckoutTest - Step 7: Clicking on Apparel
+[2025-09-07 23:12:04] INFO  tests.CategoryAndCheckoutTest - Step 8: Navigating to home page
+[2025-09-07 23:12:06] INFO  tests.CategoryAndCheckoutTest - Step 9: Clicking on Digital downloads
+[2025-09-07 23:12:10] INFO  tests.CategoryAndCheckoutTest - Step 10: Navigating to home page
+[2025-09-07 23:12:11] INFO  tests.CategoryAndCheckoutTest - Step 11: Clicking on Books
+[2025-09-07 23:15:15] INFO  tests.CategoryAndCheckoutTest - Step 12: Navigating to home page
+[2025-09-07 23:15:23] INFO  tests.CategoryAndCheckoutTest - Step 13: Clicking on Jewelry
+[2025-09-07 23:15:30] INFO  tests.CategoryAndCheckoutTest - Step 14: Navigating to home page
+[2025-09-07 23:15:31] INFO  tests.CategoryAndCheckoutTest - Step 15: Clicking on Gift Cards
+[2025-09-07 23:15:38] INFO  tests.CategoryAndCheckoutTest - Step 16: Navigating to home page
+[2025-09-07 23:15:40] INFO  tests.CategoryAndCheckoutTest - Step 17: Opening Shopping Cart
+[2025-09-07 23:15:43] INFO  tests.CategoryAndCheckoutTest - Step 18: Accepting Terms of Service
+[2025-09-07 23:15:43] INFO  tests.CategoryAndCheckoutTest - Step 19: Clicking Checkout
+[2025-09-07 23:16:03] INFO  tests.CategoryAndCheckoutTest - Step 20: Choosing Guest Checkout
+[2025-09-07 23:16:05] INFO  tests.CategoryAndCheckoutTest - Step 21: Filling Billing Address
+[2025-09-07 23:16:16] INFO  tests.CategoryAndCheckoutTest - Step 22: Clicking Next on Billing Address
+[2025-09-07 23:16:16] INFO  tests.CategoryAndCheckoutTest - Step 23: Selecting Shipping Method
+[2025-09-07 23:16:18] INFO  tests.CategoryAndCheckoutTest - Step 24: Selecting Payment Method
+[2025-09-07 23:16:20] INFO  tests.CategoryAndCheckoutTest - Step 25: Filling Payment Information
+[2025-09-07 23:16:21] INFO  tests.CategoryAndCheckoutTest - Step 26: Confirming Order
+[2025-09-07 23:16:21] INFO  tests.CategoryAndCheckoutTest - Step 27: Verifying Order Confirmation
+[2025-09-07 23:16:46] INFO  tests.CategoryAndCheckoutTest - Step 28: Checkout completed successfully
+[2025-09-07 23:16:46] INFO  tests.CategoryAndCheckoutTest - Step 29: Closing browser after completing checkout
+[2025-09-07 23:26:45] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 23:26:58] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-07 23:27:03] INFO  tests.CategoryAndCheckoutTest - Step 3: Clicking on Computers
+[2025-09-07 23:29:15] INFO  tests.CategoryAndCheckoutTest - Step 4: Navigating to home page
+[2025-09-07 23:29:17] INFO  tests.CategoryAndCheckoutTest - Step 5: Clicking on Electronics
+[2025-09-07 23:29:29] INFO  tests.CategoryAndCheckoutTest - Step 6: Navigating to home page
+[2025-09-07 23:29:32] INFO  tests.CategoryAndCheckoutTest - Step 7: Clicking on Apparel
+[2025-09-07 23:29:40] INFO  tests.CategoryAndCheckoutTest - Step 8: Navigating to home page
+[2025-09-07 23:29:41] INFO  tests.CategoryAndCheckoutTest - Step 9: Clicking on Digital downloads
+[2025-09-07 23:29:45] INFO  tests.CategoryAndCheckoutTest - Step 10: Navigating to home page
+[2025-09-07 23:29:46] INFO  tests.CategoryAndCheckoutTest - Step 11: Clicking on Books
+[2025-09-07 23:29:50] INFO  tests.CategoryAndCheckoutTest - Step 12: Navigating to home page
+[2025-09-07 23:29:52] INFO  tests.CategoryAndCheckoutTest - Step 13: Clicking on Jewelry
+[2025-09-07 23:29:58] INFO  tests.CategoryAndCheckoutTest - Step 14: Navigating to home page
+[2025-09-07 23:29:59] INFO  tests.CategoryAndCheckoutTest - Step 15: Clicking on Gift Cards
+[2025-09-07 23:30:04] INFO  tests.CategoryAndCheckoutTest - Step 16: Navigating to home page
+[2025-09-07 23:30:05] INFO  tests.CategoryAndCheckoutTest - Step 17: Opening Shopping Cart
+[2025-09-07 23:30:06] INFO  tests.CategoryAndCheckoutTest - Step 18: Accepting Terms of Service
+[2025-09-07 23:30:07] INFO  tests.CategoryAndCheckoutTest - Step 19: Clicking Checkout
+[2025-09-07 23:30:09] INFO  tests.CategoryAndCheckoutTest - Step 20: Choosing Guest Checkout
+[2025-09-07 23:30:11] INFO  tests.CategoryAndCheckoutTest - Step 21: Filling Billing Address
+[2025-09-07 23:30:17] INFO  tests.CategoryAndCheckoutTest - Step 22: Clicking Next on Billing Address
+[2025-09-07 23:30:18] INFO  tests.CategoryAndCheckoutTest - Step 23: Selecting Shipping Method
+[2025-09-07 23:30:18] INFO  tests.CategoryAndCheckoutTest - Step 24: Selecting Payment Method
+[2025-09-07 23:30:20] INFO  tests.CategoryAndCheckoutTest - Step 25: Filling Payment Information
+[2025-09-07 23:30:21] INFO  tests.CategoryAndCheckoutTest - Step 26: Confirming Order
+[2025-09-07 23:30:22] INFO  tests.CategoryAndCheckoutTest - Step 27: Verifying Order Confirmation
+[2025-09-07 23:30:23] INFO  tests.CategoryAndCheckoutTest - Step 28: Checkout completed successfully
+[2025-09-07 23:30:23] INFO  tests.CategoryAndCheckoutTest - Step 29: Closing browser after completing checkout
+[2025-09-07 23:45:52] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 23:45:57] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-07 23:45:57] INFO  tests.RegistrationLogin - Step 3: Navigating to Registration Page
+[2025-09-07 23:45:58] INFO  tests.RegistrationLogin - Step 4: Navigating to Registration Page
+[2025-09-07 23:45:58] INFO  tests.RegistrationLogin - Step 5: Navigating to Login Page
+[2025-09-07 23:45:58] INFO  tests.RegistrationLogin - Step 6: Navigating to Login Page
+[2025-09-07 23:45:58] INFO  tests.RegistrationLogin - Step 7: Navigating to Login Page
+[2025-09-07 23:45:59] INFO  tests.RegistrationLogin - Step 8: Closing browser
+[2025-09-07 23:45:59] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 23:46:00] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-07 23:48:21] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 23:48:32] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-07 23:48:32] INFO  tests.RegistrationLogin - Step 3: Navigating to Registration Page
+[2025-09-07 23:48:32] INFO  tests.RegistrationLogin - Step 4: Navigating to Registration Page
+[2025-09-07 23:48:33] INFO  tests.RegistrationLogin - Step 5: Navigating to Login Page
+[2025-09-07 23:48:33] INFO  tests.RegistrationLogin - Step 6: Navigating to Login Page
+[2025-09-07 23:48:33] INFO  tests.RegistrationLogin - Step 7: Navigating to Login Page
+[2025-09-07 23:48:34] INFO  tests.RegistrationLogin - Step 8: Closing browser
+[2025-09-07 23:48:34] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-07 23:48:37] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-08 09:42:27] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-08 09:42:57] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-08 09:43:06] INFO  tests.RegistrationLogin - Step 3: Validating Registration Success
+[2025-09-08 09:43:09] INFO  tests.RegistrationLogin - Step 4: Logout successful
+[2025-09-08 09:43:11] INFO  tests.RegistrationLogin - Step 5: Navigating to Registration Page
+[2025-09-08 09:43:18] INFO  tests.RegistrationLogin - Step 6: Validating Registration Success
+[2025-09-08 09:43:21] INFO  tests.RegistrationLogin - Step 7: Logout successful
+[2025-09-08 09:43:22] INFO  tests.RegistrationLogin - Step 8: Navigating to Registration Page
+[2025-09-08 09:43:26] INFO  tests.RegistrationLogin - Step 9: Validating Registration Success
+[2025-09-08 09:43:27] INFO  tests.RegistrationLogin - Step 10: Logout successful
+[2025-09-08 09:43:28] INFO  tests.RegistrationLogin - Step 11: Navigating to Login Page
+[2025-09-08 09:43:31] INFO  tests.RegistrationLogin - Step 12: Login successful for user: jane.smith11111222@gmail.com
+[2025-09-08 09:43:32] INFO  tests.RegistrationLogin - Step 13: Logout successful
+[2025-09-08 09:43:33] INFO  tests.RegistrationLogin - Step 14: Navigating to Login Page
+[2025-09-08 09:43:35] INFO  tests.RegistrationLogin - Step 15: Login successful for user: john.doe11111222@gmail.com
+[2025-09-08 09:43:36] INFO  tests.RegistrationLogin - Step 16: Logout successful
+[2025-09-08 09:43:37] INFO  tests.RegistrationLogin - Step 17: Navigating to Login Page
+[2025-09-08 09:43:40] INFO  tests.RegistrationLogin - Step 18: Login successful for user: raj.kumar11111333@gmail.com
+[2025-09-08 09:43:42] INFO  tests.RegistrationLogin - Step 19: Logout successful
+[2025-09-08 09:43:43] INFO  tests.RegistrationLogin - Step 20: Closing browser
+[2025-09-08 09:43:45] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-08 09:43:51] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-08 09:43:52] INFO  tests.CategoryAndCheckoutTest - Step 3: Clicking on Computers
+[2025-09-08 09:44:02] INFO  tests.CategoryAndCheckoutTest - Step 4: Navigating to home page
+[2025-09-08 09:44:03] INFO  tests.CategoryAndCheckoutTest - Step 5: Clicking on Electronics
+[2025-09-08 09:44:07] INFO  tests.CategoryAndCheckoutTest - Step 6: Navigating to home page
+[2025-09-08 09:44:08] INFO  tests.CategoryAndCheckoutTest - Step 7: Clicking on Apparel
+[2025-09-08 09:44:14] INFO  tests.CategoryAndCheckoutTest - Step 8: Navigating to home page
+[2025-09-08 09:44:15] INFO  tests.CategoryAndCheckoutTest - Step 9: Clicking on Digital downloads
+[2025-09-08 09:44:17] INFO  tests.CategoryAndCheckoutTest - Step 10: Navigating to home page
+[2025-09-08 09:44:18] INFO  tests.CategoryAndCheckoutTest - Step 11: Clicking on Books
+[2025-09-08 09:44:22] INFO  tests.CategoryAndCheckoutTest - Step 12: Navigating to home page
+[2025-09-08 09:44:23] INFO  tests.CategoryAndCheckoutTest - Step 13: Clicking on Jewelry
+[2025-09-08 09:44:31] INFO  tests.CategoryAndCheckoutTest - Step 14: Navigating to home page
+[2025-09-08 09:44:32] INFO  tests.CategoryAndCheckoutTest - Step 15: Clicking on Gift Cards
+[2025-09-08 09:44:38] INFO  tests.CategoryAndCheckoutTest - Step 16: Navigating to home page
+[2025-09-08 09:44:39] INFO  tests.CategoryAndCheckoutTest - Step 17: Opening Shopping Cart
+[2025-09-08 09:44:41] INFO  tests.CategoryAndCheckoutTest - Step 18: Accepting Terms of Service
+[2025-09-08 09:44:42] INFO  tests.CategoryAndCheckoutTest - Step 19: Clicking Checkout
+[2025-09-08 09:44:44] INFO  tests.CategoryAndCheckoutTest - Step 20: Choosing Guest Checkout
+[2025-09-08 09:44:45] INFO  tests.CategoryAndCheckoutTest - Step 21: Filling Billing Address
+[2025-09-08 09:44:50] INFO  tests.CategoryAndCheckoutTest - Step 22: Clicking Next on Billing Address
+[2025-09-08 09:44:50] INFO  tests.CategoryAndCheckoutTest - Step 23: Selecting Shipping Method
+[2025-09-08 09:44:51] INFO  tests.CategoryAndCheckoutTest - Step 24: Selecting Payment Method
+[2025-09-08 09:44:52] INFO  tests.CategoryAndCheckoutTest - Step 25: Filling Payment Information
+[2025-09-08 09:44:53] INFO  tests.CategoryAndCheckoutTest - Step 26: Confirming Order
+[2025-09-08 09:44:54] INFO  tests.CategoryAndCheckoutTest - Step 27: Verifying Order Confirmation
+[2025-09-08 09:44:56] INFO  tests.CategoryAndCheckoutTest - Step 28: Checkout completed successfully
+[2025-09-08 09:44:56] INFO  tests.CategoryAndCheckoutTest - Step 29: Closing browser after completing checkout
+[2025-09-08 15:09:48] INFO  tests.RegistrationLogin - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-08 15:10:03] INFO  tests.RegistrationLogin - Step 2: Navigating to Registration Page
+[2025-09-08 15:10:10] INFO  tests.RegistrationLogin - Step 3: Validating Registration Success
+[2025-09-08 15:10:17] INFO  tests.RegistrationLogin - Step 4: Logout successful
+[2025-09-08 15:10:18] INFO  tests.RegistrationLogin - Step 5: Navigating to Registration Page
+[2025-09-08 15:10:20] INFO  tests.RegistrationLogin - Step 6: Validating Registration Success
+[2025-09-08 15:10:21] INFO  tests.RegistrationLogin - Step 7: Logout successful
+[2025-09-08 15:10:22] INFO  tests.RegistrationLogin - Step 8: Navigating to Registration Page
+[2025-09-08 15:10:25] INFO  tests.RegistrationLogin - Step 9: Validating Registration Success
+[2025-09-08 15:10:26] INFO  tests.RegistrationLogin - Step 10: Logout successful
+[2025-09-08 15:10:27] INFO  tests.RegistrationLogin - Step 11: Navigating to Login Page
+[2025-09-08 15:10:29] INFO  tests.RegistrationLogin - Step 12: Login successful for user: jane.smith111111222@gmail.com
+[2025-09-08 15:10:30] INFO  tests.RegistrationLogin - Step 13: Logout successful
+[2025-09-08 15:10:30] INFO  tests.RegistrationLogin - Step 14: Navigating to Login Page
+[2025-09-08 15:10:32] INFO  tests.RegistrationLogin - Step 15: Login successful for user: john.doe111111222@gmail.com
+[2025-09-08 15:10:33] INFO  tests.RegistrationLogin - Step 16: Logout successful
+[2025-09-08 15:10:34] INFO  tests.RegistrationLogin - Step 17: Navigating to Login Page
+[2025-09-08 15:10:36] INFO  tests.RegistrationLogin - Step 18: Login successful for user: raj.kumar111111333@gmail.com
+[2025-09-08 15:10:37] INFO  tests.RegistrationLogin - Step 19: Logout successful
+[2025-09-08 15:10:38] INFO  tests.RegistrationLogin - Step 20: Closing browser
+[2025-09-08 15:10:39] INFO  tests.CategoryAndCheckoutTest - Step 1: Launching browser and setting base URL: https://demo.nopcommerce.com
+[2025-09-08 15:10:43] INFO  tests.CategoryAndCheckoutTest - Step 2: Navigating to home page
+[2025-09-08 15:10:44] INFO  tests.CategoryAndCheckoutTest - Step 3: Clicking on Computers
+[2025-09-08 15:10:54] INFO  tests.CategoryAndCheckoutTest - Step 4: Navigating to home page
+[2025-09-08 15:10:55] INFO  tests.CategoryAndCheckoutTest - Step 5: Clicking on Electronics
+[2025-09-08 15:10:58] INFO  tests.CategoryAndCheckoutTest - Step 6: Navigating to home page
+[2025-09-08 15:10:59] INFO  tests.CategoryAndCheckoutTest - Step 7: Clicking on Apparel
+[2025-09-08 15:11:03] INFO  tests.CategoryAndCheckoutTest - Step 8: Navigating to home page
+[2025-09-08 15:11:04] INFO  tests.CategoryAndCheckoutTest - Step 9: Clicking on Digital downloads
+[2025-09-08 15:11:06] INFO  tests.CategoryAndCheckoutTest - Step 10: Navigating to home page
+[2025-09-08 15:11:07] INFO  tests.CategoryAndCheckoutTest - Step 11: Clicking on Books
+[2025-09-08 15:11:10] INFO  tests.CategoryAndCheckoutTest - Step 12: Navigating to home page
+[2025-09-08 15:11:12] INFO  tests.CategoryAndCheckoutTest - Step 13: Clicking on Jewelry
+[2025-09-08 15:11:15] INFO  tests.CategoryAndCheckoutTest - Step 14: Navigating to home page
+[2025-09-08 15:11:16] INFO  tests.CategoryAndCheckoutTest - Step 15: Clicking on Gift Cards
+[2025-09-08 15:11:19] INFO  tests.CategoryAndCheckoutTest - Step 16: Navigating to home page
+[2025-09-08 15:11:19] INFO  tests.CategoryAndCheckoutTest - Step 17: Opening Shopping Cart
+[2025-09-08 15:11:21] INFO  tests.CategoryAndCheckoutTest - Step 18: Accepting Terms of Service
+[2025-09-08 15:11:21] INFO  tests.CategoryAndCheckoutTest - Step 19: Clicking Checkout
+[2025-09-08 15:11:22] INFO  tests.CategoryAndCheckoutTest - Step 20: Choosing Guest Checkout
+[2025-09-08 15:11:24] INFO  tests.CategoryAndCheckoutTest - Step 21: Filling Billing Address
+[2025-09-08 15:11:27] INFO  tests.CategoryAndCheckoutTest - Step 22: Clicking Next on Billing Address
+[2025-09-08 15:11:27] INFO  tests.CategoryAndCheckoutTest - Step 23: Selecting Shipping Method
+[2025-09-08 15:11:28] INFO  tests.CategoryAndCheckoutTest - Step 24: Selecting Payment Method
+[2025-09-08 15:11:28] INFO  tests.CategoryAndCheckoutTest - Step 25: Filling Payment Information
+[2025-09-08 15:11:29] INFO  tests.CategoryAndCheckoutTest - Step 26: Confirming Order
+[2025-09-08 15:11:30] INFO  tests.CategoryAndCheckoutTest - Step 27: Verifying Order Confirmation
+[2025-09-08 15:11:31] INFO  tests.CategoryAndCheckoutTest - Step 28: Checkout completed successfully
+[2025-09-08 15:11:31] INFO  tests.CategoryAndCheckoutTest - Step 29: Closing browser after completing checkout

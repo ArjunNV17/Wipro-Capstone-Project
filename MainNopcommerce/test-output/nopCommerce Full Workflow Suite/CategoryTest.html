@@ -1,0 +1,155 @@
+<html>
+<head>
+<title>TestNG:  CategoryTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>CategoryTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>15/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Sep 08 15:09:48 IST 2025</td>
+</tr>
+<tr><td>Total time:</td><td>123 seconds (123176 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.RegistrationLogin.testRegistration()'><b>testRegistration</b><br>Test class: tests.RegistrationLogin<br>Parameters: john, Doe, jane.smith111111222@gmail.com, AcmeCorp, Male, Yes, Pass@123, Pass@123</td>
+<td></td>
+<td>14</td>
+<td>tests.RegistrationLogin@2a3c96e3</td></tr>
+<tr>
+<td title='tests.RegistrationLogin.testRegistration()'><b>testRegistration</b><br>Test class: tests.RegistrationLogin<br>Parameters: Raj, Kumar, raj.kumar111111333@gmail.com, Infosys, Male, Yes, Pass@789, Pass@789</td>
+<td></td>
+<td>4</td>
+<td>tests.RegistrationLogin@2a3c96e3</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addComputerProduct()'><b>addComputerProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>9</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addBooksProduct()'><b>addBooksProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>2</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.RegistrationLogin.testLogin()'><b>testLogin</b><br>Test class: tests.RegistrationLogin<br>Parameters: john.doe111111222@gmail.com, Pass@456</td>
+<td></td>
+<td>3</td>
+<td>tests.RegistrationLogin@2a3c96e3</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addDigitalDownloadProduct()'><b>addDigitalDownloadProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>2</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addElectronicsProduct()'><b>addElectronicsProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>3</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.checkoutAllProducts()'><b>checkoutAllProducts</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>11</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.RegistrationLogin.testRegistration()'><b>testRegistration</b><br>Test class: tests.RegistrationLogin<br>Parameters: jane, Smith, john.doe111111222@gmail.com, WidgetInc, Female, No, Pass@456, Pass@456</td>
+<td></td>
+<td>4</td>
+<td>tests.RegistrationLogin@2a3c96e3</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addJewelryRentalProduct()'><b>addJewelryRentalProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>3</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addVirtualGiftCardProduct()'><b>addVirtualGiftCardProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>2</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.RegistrationLogin.testLogin()'><b>testLogin</b><br>Test class: tests.RegistrationLogin<br>Parameters: jane.smith111111222@gmail.com, Pass@123</td>
+<td></td>
+<td>3</td>
+<td>tests.RegistrationLogin@2a3c96e3</td></tr>
+<tr>
+<td title='tests.RegistrationLogin.testLogin()'><b>testLogin</b><br>Test class: tests.RegistrationLogin<br>Parameters: raj.kumar111111333@gmail.com, Pass@789</td>
+<td></td>
+<td>4</td>
+<td>tests.RegistrationLogin@2a3c96e3</td></tr>
+<tr>
+<td title='tests.CategoryAndCheckoutTest.addApparelProduct()'><b>addApparelProduct</b><br>Test class: tests.CategoryAndCheckoutTest</td>
+<td></td>
+<td>3</td>
+<td>tests.CategoryAndCheckoutTest@cb191ca</td></tr>
+<tr>
+<td title='tests.WishlistToCartTest.testWishlistToCart()'><b>testWishlistToCart</b><br>Test class: tests.WishlistToCartTest</td>
+<td></td>
+<td>11</td>
+<td>tests.WishlistToCartTest@42f48531</td></tr>
+</table><p>
+</body>
+</html>

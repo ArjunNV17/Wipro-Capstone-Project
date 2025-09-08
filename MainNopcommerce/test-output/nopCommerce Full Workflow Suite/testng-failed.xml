@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [nopCommerce Full Workflow Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="baseUrl" value="https://demo.nopcommerce.com"/>
+  <test thread-count="5" name="CategoryTest(failed)">
+    <classes>
+      <class name="tests.WishlistToCartTest">
+        <methods>
+          <include name="testWishlistToCart"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.WishlistToCartTest -->
+    </classes>
+  </test> <!-- CategoryTest(failed) -->
+</suite> <!-- Failed suite [nopCommerce Full Workflow Suite] -->

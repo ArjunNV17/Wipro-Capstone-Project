@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="nopCommerce Full Workflow Suite">
+    <!-- Base URL parameter -->
+    <parameter name="baseUrl" value="https://demo.nopcommerce.com" />
+
+    <test name="CategoryTest">
+        <classes>
+           <class name="tests.RegistrationLogin"/>
+            <!-- Single merged test class containing both add-to-cart and checkout -->
+            <class name="tests.CategoryAndCheckoutTest"/>
+            <class name="tests.WishlistToCartTest"/>   
+        </classes>
+    </test>
+</suite>
